@@ -16,7 +16,7 @@
 title: Future of Application Development 
 description: IBM PoV of future cloud application development
 #baseurl: "/guidance-documentation/guidance-documentation.github.io" # the subpath of your site, e.g. /blog
-baseurl: "/casoffering/future-appdev" # the subpath of your site, e.g. /blog
+baseurl: "/githubPage/" # the subpath of your site, e.g. /blog
 #url: "https://github.ibm.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
