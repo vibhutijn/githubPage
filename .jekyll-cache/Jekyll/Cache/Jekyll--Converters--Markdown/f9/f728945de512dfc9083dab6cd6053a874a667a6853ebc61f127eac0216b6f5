@@ -1,0 +1,156 @@
+I"õ<h1 class="no_toc" id="dataops--data-pipelines">DataOps &amp; Data Pipelines</h1>
+
+<hr />
+
+<details open="">
+  <summary class="text-delta">
+    Table of Contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#data-ops" id="markdown-toc-data-ops">Data Ops</a>    <ol>
+      <li><a href="#drivers-for-dataops" id="markdown-toc-drivers-for-dataops">Drivers for DataOps</a></li>
+    </ol>
+  </li>
+  <li><a href="#data-pipelines" id="markdown-toc-data-pipelines">Data Pipelines</a></li>
+  <li><a href="#devops-vs-dataops" id="markdown-toc-devops-vs-dataops">DevOps vs DataOps</a></li>
+  <li><a href="#dataops-as-a-service" id="markdown-toc-dataops-as-a-service">DataOps-as-a-Service</a></li>
+  <li><a href="#dataops-ecosystem" id="markdown-toc-dataops-ecosystem">DataOps Ecosystem</a></li>
+</ol>
+
+</details>
+
+<hr />
+
+<h2 id="data-ops">Data Ops</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>DataOps</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/dataops.png" alt="Data Ops" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Data Ops lies at the conjunction of data engineering, data science and data analytics.</p>
+
+<p><br /></p>
+
+<h3 id="drivers-for-dataops">Drivers for DataOps</h3>
+
+<p><strong>Problems</strong></p>
+
+<ul>
+  <li>Data Scientists spend a lot of time working on the data for various phases such as data filtration, cleansing, deduplication, profiling and transformation</li>
+  <li>As part of developing analytical models, the data scientists are required to test the models against datasets. With each iteration, the data needs to be refreshed and the models are required to be retrained. The metadata also changes and this requires to be monitored , giving rise to a need for KPIs for data</li>
+</ul>
+
+<p><strong>Drivers</strong></p>
+
+<ul>
+  <li>Data must be delivered at the speed of analytics to meet the demand</li>
+  <li>Accelerate Data preparation and Data Enrichment for Data Scientists</li>
+  <li>Deliver DataOps as a Service for Data Platforms and Solutions â€“ as an extension of DevOps &amp; DevSecOps</li>
+  <li>Data Scientists should be able to consume data quickly with up to date datasets which are consistent throughout the life cycle of data without compromising on integrity</li>
+</ul>
+
+<hr />
+
+<h2 id="data-pipelines">Data Pipelines</h2>
+
+<p>Data has a workflow in a Data Platform between the point of source through the various stages of transformation to the point of consumption.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Data Pipeline</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/datapipeline.png" alt="Data Pipeline" /></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><br /><br /> This includes Ingestion, Integration, Storage, Processing, Testing, Serving, Machine Learning &amp; analytics.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><img src="../resources/datapipeline2.png" alt="Data Pipeline" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="devops-vs-dataops">DevOps vs DataOps</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>DevOps</th>
+      <th>DataOps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Development + Operations</td>
+      <td>Data + Operations</td>
+    </tr>
+    <tr>
+      <td>Develop Software</td>
+      <td>Deliver Data</td>
+    </tr>
+    <tr>
+      <td>Application Developers</td>
+      <td>Data Scientists &amp; Data Analysts</td>
+    </tr>
+    <tr>
+      <td>Application Design</td>
+      <td>Data Engineering</td>
+    </tr>
+    <tr>
+      <td>Integration of Developers, Testers, Operators and Users</td>
+      <td>Integration of Data practitioners</td>
+    </tr>
+    <tr>
+      <td>Application Development Life Cycle</td>
+      <td>Data Life Cycle Management</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="dataops-as-a-service">DataOps-as-a-Service</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>DataOps-as-a-Service</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/dataops-service.png" alt="DataOps as a service" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="dataops-ecosystem">DataOps Ecosystem</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>DataOps Ecosystem</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/dataops-ecosystem.png" alt="DataOps Ecosystem" /></td>
+    </tr>
+  </tbody>
+</table>
+:ET

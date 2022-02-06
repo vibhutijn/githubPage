@@ -1,0 +1,103 @@
+I"�<h1 class="no_toc" id="devsecops-tooling">DevSecOps Tooling</h1>
+
+<hr />
+
+<details open="">
+  <summary class="text-delta">
+    Table of Contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#background" id="markdown-toc-background">Background</a>    <ol>
+      <li><a href="#managing-tool-sprawl" id="markdown-toc-managing-tool-sprawl">Managing Tool Sprawl</a></li>
+      <li><a href="#centralized-management" id="markdown-toc-centralized-management">Centralized Management</a></li>
+      <li><a href="#toolchain-monitoring-and-management" id="markdown-toc-toolchain-monitoring-and-management">Toolchain monitoring and management</a></li>
+      <li><a href="#optimization-with-continuous-feedback" id="markdown-toc-optimization-with-continuous-feedback">Optimization with continuous feedback</a></li>
+    </ol>
+  </li>
+  <li><a href="#ibm-approach" id="markdown-toc-ibm-approach">IBM Approach</a></li>
+</ol>
+
+</details>
+
+<hr />
+
+<h2 id="background">Background</h2>
+
+<p>Security and compliance have become top priorities in today’s volatile and uncertain business environment and must be integrated into software lifecycle to maintain velocity.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>DevSecOps</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/devsecops.png" alt="Develop Securely" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Enterprises are under pressure to implement DevSecOps to modernize and be agile, deliver faster, acquire industry best practices, but they face serious implementation challenges.</p>
+
+<p><br /></p>
+
+<h3 id="managing-tool-sprawl">Managing Tool Sprawl</h3>
+
+<p>Individual business units choose from a plethora of DevSecOps tools in the market, usually without an enterprise level view resulting in tool sprawl</p>
+
+<p><br /></p>
+
+<h3 id="centralized-management">Centralized Management</h3>
+
+<p>Without a management layer and GitOps, pipeline definitions become too decentralized and creates pipeline sprawl. Centralized access control with pattern-based approach is necessary for every organization.</p>
+
+<p><br /></p>
+
+<h3 id="toolchain-monitoring-and-management">Toolchain monitoring and management</h3>
+
+<p>Ongoing management of the toolchain instances and application delivery pipelines require significant efforts.</p>
+
+<p><br /></p>
+
+<h3 id="optimization-with-continuous-feedback">Optimization with continuous feedback</h3>
+
+<p>The need for continuous feedback and optimization to evaluate the impact of each release and gauge end user satisfaction is essential to deliver the right business outcomes.</p>
+
+<hr />
+
+<h2 id="ibm-approach">IBM Approach</h2>
+
+<ul>
+  <li>Help Clients to adopt a sustainable DevSecOps model, building upon any transformation they have already undertaken</li>
+  <li>Understand and build upon existing target model and transformation plan on different fronts: people, process, technologies as required</li>
+  <li>Build upon any foundational steps taken for creating a DevSecOps culture and roll-out across the client organization</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>IBM Approach</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/devsecops-ibm.png" alt="IBM Approach" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Solution Design Points</strong></p>
+<ul>
+  <li>Assessment of client’s current SDLC state/development process and pain points</li>
+  <li>Build upon existing definition of target DevSecOps processes, toolchain and implementation plan, filling gaps where required</li>
+  <li>Provide DevSecOps framework artifacts and reusable materials for the client organization customization and roll-out</li>
+</ul>
+
+<p><strong>Key Outcomes and Benefits</strong></p>
+<ul>
+  <li>Defined the target DevSecOps framework</li>
+  <li>Maximise shift left approach in DevSecOps environment</li>
+  <li>Defined optimization points for security activities within the SDLC</li>
+</ul>
+:ET

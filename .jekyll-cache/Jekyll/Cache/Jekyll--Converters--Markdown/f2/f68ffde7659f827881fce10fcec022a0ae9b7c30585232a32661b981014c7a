@@ -1,0 +1,81 @@
+I"t<h1 class="no_toc" id="try-confirm-cancel">Try-Confirm-Cancel</h1>
+
+<hr />
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#what-is-tcc" id="markdown-toc-what-is-tcc">What is TCC</a></li>
+  <li><a href="#roles-in-tcc" id="markdown-toc-roles-in-tcc">Roles in TCC</a></li>
+  <li><a href="#tcc-stages" id="markdown-toc-tcc-stages">TCC Stages</a></li>
+</ol>
+
+</details>
+
+<hr />
+
+<h2 id="what-is-tcc">What is TCC</h2>
+
+<ul>
+  <li>TCC patterns helps in managing distributed transactions for Systems using REST APIs.</li>
+  <li>It helps implementing distributed atomic transactions across REST services that aligns well with HTTP and REST principles.</li>
+  <li>It provides a reservation process across multiple, independent REST services where failures before completion are guaranteed to have no effect and the system returns to its earlier consistent state.</li>
+</ul>
+
+<hr />
+
+<h2 id="roles-in-tcc">Roles in TCC</h2>
+
+<ol>
+  <li><strong>TCC Participant services</strong> are TCC-aware REST service providers.</li>
+  <li><strong>Coordinator service</strong> is what we provide: a reusable service to manage the consistent confirmation (or cancellation) of a set of related participant service invocations (including recovery).</li>
+  <li><strong>Business process</strong> manages business flow by making use of the TCC participants and coordinator service.</li>
+</ol>
+
+<hr />
+
+<h2 id="tcc-stages">TCC Stages</h2>
+
+<ul>
+  <li>Every REST service that participates in a distributed transaction needs to be TCC aware and is called as a TCC participant</li>
+  <li>A TCC coordinator that manages the TCC flow on behalf of the client process.</li>
+  <li>Client process invokes services on the TCC participants and TCC coordinator.</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">TCC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../../../../resources/tcc.png" alt="tcc.png" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>There are 2 stages in TCC:</p>
+
+<ol>
+  <li><strong>Try / Reserve</strong>
+    <ul>
+      <li>The TCC coordinator makes an invocation via HTTP REST Call (mostly POST) on each TCC participant so that the participant can  <em>reserve</em> a resource  on behalf of the client process.</li>
+      <li>The reserved state is identified by a unique URI that can be used to confirm the reservation later and an optional expiration date/time after which the participant can autonomously cancel and move the resource back to the initial state.</li>
+    </ul>
+  </li>
+  <li><strong>Confirm / Cancel</strong>
+    <ul>
+      <li>This state is reached when a reserved participant receives a confirmation message within the specified time frame.</li>
+      <li>If the business transaction fails, then the TCC coordinator makes an invocation via HTTP REST Call (mostly DELETE) on each participant so that the participant can  <em>unreserve</em> the resource reserved in the previous stage.</li>
+      <li>If the business transaction succeeds, then the TCC coordinator makes an invocation via HTTP REST Call (mostly PUT) on each participant so that the participant can  <em>finalize the reservation</em> on the resource reserved in the previous stage.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>If there is any failures before stage #2, then everything will time out and cancel because of confirmations not being sent to TCC participants within stipulated time.</p>
+
+<p>If there are failures during stage#2, then they are handled by the coordinator service, including recovery after crashes, network failures etc. This yields transactional guarantees for REST services.</p>
+:ET

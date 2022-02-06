@@ -1,0 +1,121 @@
+I"§<h1 class="no_toc" id="low-code-no-code">Low-Code No-Code</h1>
+
+<h2 id="what-is-low-code-no-code">What is Low-Code No-Code</h2>
+
+<p>Visual software deployment platform for creating business applications with a click or drag and drop of components and piecing them together. Key benefits of Low-Code No-Code development platforms are:</p>
+
+<ul>
+  <li>Quickly create and deploy applications</li>
+  <li>Improved business process agility and automation</li>
+  <li>Standard design and accessibility principles</li>
+  <li>Easy to build and test</li>
+  <li>A simple submission(data) transformed into end-end service</li>
+  <li>No complex deployments, hosting, integrations required</li>
+  <li>Business perspective development platforms</li>
+  <li>Frontend, backend, data, process flows, and architecture all embedded into the platform</li>
+  <li>Provides holistic view of the entire applications</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Low-Code No-Code</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/lowcode.png" alt="Low-Code No-Code" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li><strong>Model components</strong> should be immutable,any new changes should be new components, extensive testing is required, need support for flexible auth requirements.</li>
+  <li><strong>Avoid vendor lock-in</strong> by using open source-based components, no frequent updates to components, cultural changes and training needed.</li>
+  <li><strong>Set appropriate security constraints</strong> for B2E, B2C and B2B applications, customization is difficult, data compliance policies revisit needed.</li>
+</ul>
+
+<h2 id="ibm-approach">IBM Approach</h2>
+<p>Prebuilt assets to accelerate Low-Code Cloud Native Development.</p>
+
+<h3 id="client-scenario">Client Scenario</h3>
+
+<p>Build an X-Press connect API marketplace for business and third party Partners with following features:</p>
+<ul>
+  <li>Partners to self-subscribe and map APIs on the platform</li>
+  <li>Automatic code generation, build and deploy to non-production environments</li>
+  <li>Certify and move to production in order to consume the APIs</li>
+</ul>
+
+<h3 id="ibm-solution">IBM Solution</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>IBM Solution</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/lowcode-ibm.png" alt="DSB" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Digital Scenario Builder (DSB)</strong> helps choreograph microservices into a digital scenario flow</p>
+<ul>
+  <li>Automated Code generation leads to 25 % better code quality, reducing cost of maintenance</li>
+  <li>25% cheaper with enhanced productivity using core language resources and scaling abilities</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Digital Scenario Builder</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/lowcode-dmb.png" alt="DSB" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Digital Microservices Builder</strong></p>
+<ul>
+  <li>Generate microservices code using API definitions that enables to rapidly deploy new functionality  &amp; accelerate go-to-market of new products &amp; services</li>
+  <li>Accelerated to get Microservices program to be 20% faster</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Digital Microservices Builder</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/lowcode-dsb.png" alt="DSB" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>DevOps Commander and Deployment Automation Tool</strong></p>
+<ul>
+  <li>Automate design, build, deployment  and operation based on best practices, Microservice API enabled tool, UCDz, Jenkins, Jira, REXX Scripts, Shell Scripts</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>DevOps Commander and Deployment Automation Tool</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/lowcode-dc.png" alt="DSB" /></td>
+    </tr>
+  </tbody>
+</table>
+
+:ET

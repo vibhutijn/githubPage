@@ -1,0 +1,43 @@
+// Colors from IBM 
+// Reference: https://www.ibm.com/design/language/color/
+
+$ibm-blue-100: #001141 !default;
+$ibm-blue-90: #001d6c !default;
+$ibm-blue-80: #002d9c !default;
+$ibm-blue-70: #0043ce !default;
+$ibm-blue-60: #0f62fe !default;
+$ibm-blue-50: #4589ff !default;
+
+$ibm-gray-90: #262626 !default;
+$ibm-gray-80: #393939 !default;
+$ibm-gray-70: #525252 !default;
+$ibm-gray-60: #6f6f6f !default;
+
+
+//
+// Grid system
+//
+
+// $nav-width: 264px !default;
+// $nav-width-md: 248px !default;
+$nav-width: 234px !default;
+$nav-width-md: 218px !default;
+
+// $content-width: 1000px !default;
+$content-width: 1070px !default;
+
+//
+// Color settings
+//
+
+$border-color: $grey-lt-300;
+// $border-color: $ibm-gray-60;
+
+$link-color: $ibm-blue-60;
+
+$nav-link-color: $ibm-gray-80;
+$nav-child-link-color: $ibm-gray-60;
+
+$btn-primary-color: $white;
+$base-button-color: $ibm-blue-70;
+

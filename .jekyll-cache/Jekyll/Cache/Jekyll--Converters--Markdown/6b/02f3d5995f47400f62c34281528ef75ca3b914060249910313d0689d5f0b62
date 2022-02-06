@@ -1,0 +1,42 @@
+I"5<h1 class="no_toc" id="future-of-application-development">Future of Application Development</h1>
+
+<p><br /></p>
+
+<p>Organizations are being disrupted from traditional competitors and new players never seen in their markets. To combat the disruption, organization recognize they need to pivot, act quickly to market shifts, create new markets and lower the cost of operations to compete. A key element in an organization’s transformation strategy is technology. Leveraging emerging technologies can often be the difference between being disrupted or being the disruptor.  Today’s top organizations are leveraging emerging technology to innovate and differentiate. Key to their success is the ability to reimagine existing customer facing applications and build new applications that support new ways of delivering goods and services. Central to their digital transformation journey is Application Development.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Digital Transformation</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="resources/digital-transformation.png" alt="Digital Transformation" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The following sections provide  IBM’s vision on the Future of Application Development and the key elements to consider when modernizing your existing applications or building new capabilities.</p>
+
+<ol>
+  <li>
+    <p><a href="/casoffering/future-appdev/key-drivers">Key drivers</a> of the evolution of application development, what our clients are doing and how this is happening.</p>
+  </li>
+  <li>
+    <p><a href="/casoffering/future-appdev/target-opt-model">Target Operating Model</a>: What this evolution means for the enterprise. Modern enterprise workflows demand agility at all layers of business platforms, and they all need to securely deliver technology solutions faster and at scale. Driven by intense competition, the requirements for business applications are constantly changing a lot, so, companies need to release updates daily or even multiple times per day at all layers of IT landscape.</p>
+  </li>
+  <li>
+    <p>New age models of application development and how IBM has been changing to enable enterprises:</p>
+    <ul>
+      <li><a href="/casoffering/future-appdev/arch">Architecture</a> is becoming more reactive and event-driven than just APIs.</li>
+      <li><a href="/casoffering/future-appdev/delivery">Delivery Model</a>: High Speed Garages and Dynamic Delivery models to enable enterprises deliver new applications.</li>
+      <li><a href="/casoffering/future-appdev/devsecops-principles">DevSecOps Principles</a>: Key disciplines of DevSecOps - DataOps &amp; Data Pipelines, Tooling, Continous Monitoring and Site Reliability Engineering for Continuous Improvements.</li>
+      <li><a href="/casoffering/future-appdev/sw-engineering">Software Engineering Practices</a>: Key practices which are enabling this evolution.</li>
+      <li><a href="/casoffering/future-appdev/hybrid-int">New Age Development with Hybrid Integration</a>: How Hybrid Integration is becoming the center stage of application development.</li>
+      <li><a href="/casoffering/future-appdev/lowcode-nocode">Low-Code No-Code</a>: a new form of application development platforms evolving with lower barrier to entry for coding.</li>
+    </ul>
+  </li>
+</ol>
+
+:ET

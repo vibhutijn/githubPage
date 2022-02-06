@@ -1,0 +1,217 @@
+I"J.<h1 class="no_toc" id="key-drivers-of-application-development">Key Drivers of Application Development</h1>
+
+<p><br /></p>
+
+<p>This section highlights the key drivers of the evolution of application development, what our clients are doing and how this is happening.</p>
+
+<hr />
+
+<h4 id="table-of-contents">Table of Contents</h4>
+
+<ol>
+  <li><a href="#1-key-drivers">Key Drivers</a></li>
+  <li><a href="#2-what-is-evolving">What Is Evolving?</a></li>
+  <li><a href="#3-what-are-our-clients-doing">What Are Our Clients Doing?</a></li>
+</ol>
+
+<hr />
+
+<h1 id="1-key-drivers">1. Key Drivers</h1>
+
+<p>Rapid technology advances are driving higher expectations around speed, efficiency and security.</p>
+
+<h2 id="11-business-expectations">1.1. Business Expectations</h2>
+
+<p>Infuse technology to drive speed to market, create new revenue streams and enhance customer experience.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Business Expectation</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/business-expectations.png" alt="Expectations" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li><strong>IoT</strong> allows to draw from multiple data sources in real time. Optimizing productivity with predictive maintenance, end-to-end connected vehicle and monitoring courier package status through <strong>Industrial IoT</strong>.</li>
+  <li>5G and Edge enabling compute and storage options. Virtualization of Telecom Network Function and enhancing Immersive Virtual Reality Experience through <strong>5G and Edge technologies</strong>.</li>
+  <li>Analytics enable to make sense of data and identify new opportunities with access to unique data sets. Increasing hyper-personalization, Fraud Detection and unified view  of customers, products and channels through  <strong>real-time data capture Analytics</strong>.</li>
+</ul>
+
+<h2 id="12-technology-trends">1.2. Technology Trends</h2>
+
+<p>Technology evolutions drive innovation through Data, Integration, AI and Automation.</p>
+
+<h3 id="distributed-cloud">Distributed Cloud</h3>
+
+<p>Allows data centers to be located anywhere. This solves both technical issues like latency and also regulatory challenges like data sovereignty. It also offers the benefits of a public cloud service alongside the benefits of a private, local cloud.</p>
+
+<h3 id="data-fabrics">Data Fabrics</h3>
+
+<p>A core component of digitization is treating data as an asset. To be successful with digitization, businesses must use data management and governance techniques to free data from supporting IT components.</p>
+
+<h3 id="hyperautomation">Hyperautomation</h3>
+
+<p>Application of advanced technologies, including AI  and ML, to increasingly automate processes and augment humans. It refers to the sophistication of the automation (i.e., discover, analyze, design, automate, measure, monitor, reassess).</p>
+
+<h3 id="multiexperience">Multiexperience</h3>
+
+<p>Immersive experiences that use AR, VR, mixed reality, multichannel human-machine interfaces and sensing technologies. The combination of these technologies can be used for a simple AR overlay or a fully immersive VR experience.</p>
+
+<h3 id="hybrid-integration">Hybrid Integration</h3>
+
+<p>Unified, cloud agnostic integration platform that enables internal, external, edge, IoT, SaaS, market place and partner ecosystem integration using traditional and advanced integration technologies, e.g. event, messages, data transfer and streams.</p>
+
+<h3 id="edge--iot">Edge &amp; IoT</h3>
+
+<p>Information processing and content collection and delivery are placed closer to the sources of the information moving key applications and services closer to the people and devices that use them..</p>
+
+<h3 id="application-composition">Application Composition</h3>
+
+<p>Composable business functions, services and workflows from traditional applications, enabled by APIs, microservices and containers.</p>
+
+<h3 id="cognitive-augmentation">Cognitive Augmentation</h3>
+
+<p>Enhances a human’s ability to think and make better decisions, for example, exploiting information and applications to enhance learning or new experiences.</p>
+
+<h3 id="technology-velocity-and-security">Technology Velocity and Security</h3>
+
+<p>Technologies evolve rapidly, enabled by open source and cloud ecosystems and the need for increased security.</p>
+
+<h2 id="13-market-analysis-forecast">1.3. Market Analysis Forecast</h2>
+
+<p>Market analysis forecasts increasing adoption and growth for cloud based applications:</p>
+<ul>
+  <li>Cloud applications market size is expected to grow from USD 171 billion in 2020 to USD 356 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 15.8%.</li>
+  <li>By 2022,  modernization of existing applications and developments of new cloud-native applications will increase the percentage of cloud-native production applications to 25%.</li>
+  <li>By 2023, 60% of the G2000 enterprise will have created their own software ecosystem.</li>
+  <li>The enterprises that build cloud based applications:
+    <ul>
+      <li>77% of enterprises say they develop and deploy applications faster.</li>
+      <li>67% of enterprises say they respond to market changes and demands faster.</li>
+      <li>86% of organizations report improvement in application performance.</li>
+    </ul>
+  </li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Market Analysis</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/market-cagr.png" alt="Market" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p><a href="#top">Back to top</a></p>
+
+<hr />
+
+<h1 id="2-what-is-evolving">2. What Is Evolving?</h1>
+<p>A lot is being re-imagined about Application Development - how its done, why its done, who does it. Enterprises are building new applications not just to automate and drive out costs but to allow them to flex &amp; to scale and to reach out to newer markets in unimagined ways.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>What is evolving</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="resources/what-is-evolving.png" alt="What is evolving" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="21-shift-in-focus">2.1. Shift in Focus</h2>
+
+<p>Software engineering is now seen as a core compentency they need to build not only to help them achieve their business goals but also to be competitive and innovative in their industry. Therefore IT programs are shifting from a project delivery focus to a more continuous product centric view which involves long term thinking, agile &amp; automated IT processes and long running teams.</p>
+
+<p>This has introduced newer organizational roles &amp; disciplines e.g.  Product Management bridging the gap between business users and IT teams, Release Engineer &amp; Site Reliability Engineers bridging the gap between erstwhile IT projects and IT operations. This has also meant that enterprises are now wanted to build more skills in this space instead of outsourcing the delivery of an IT system. IBM has well understood this evolution and the need for enterprises to be engaged deeply in this process and is helping its clients take this journey using our Co-Creation model IBM Garage Method.</p>
+
+<h2 id="22-cognitive-thinking--models">2.2. Cognitive Thinking &amp; Models</h2>
+
+<p>Cognitive technologies have transformed business processes and business models by becoming central to decision making in real time based on accumulated systemic intelligence.</p>
+
+<p>This has led to an entirely different way of developing applications. Here are some of the considerations of building apps using AI and Machine Learning technologies:</p>
+
+<ul>
+  <li>No more building logic trees, build models</li>
+  <li>Training over testing</li>
+  <li>Crowd sourcing data over generating synthetic data</li>
+</ul>
+
+<p>This implies that organizations require a new set of capabilities. Effectiveness of machine learning models are a direct result of the quality of training data. Right set of tools and practices need to be adopted to build training data and manage it with the evolving system.</p>
+
+<h2 id="23-new-platform-capabilities">2.3. New Platform Capabilities</h2>
+
+<p>There is also evolution in application development driven by new capabilities being made available by underlying and emerging platforms. Public cloud platforms have evolved to make almost all functions available through CLI and API interfaces allowing for all administration functions to be performed in automated and autonomous manner. There is also emergence of Low Code No Code platforms enabling rapid application development by a wider range of skilled resources including the likes of Business Analysts and Product Owners. Moreover, availability of such hosting platforms on previously unsupported environments like Edge devices has triggered development of new kind of workloads which weren’t possible earlier.</p>
+
+<p><br /></p>
+
+<p><a href="#top">Back to top</a></p>
+
+<hr />
+
+<h1 id="3-what-are-our-clients-doing">3. What Are Our Clients Doing?</h1>
+
+<p>This section describes some cross-cutting client stories which are examples for new age application development models.</p>
+
+<h2 id="31-bnp-paribas-multicloud-transformation--operating-model">3.1. BNP Paribas: Multicloud Transformation &amp; Operating Model</h2>
+
+<p>IBM worked with BNP Paribas over five months to deliver a Strategic Engagement defining its 2022 Multicloud Transformation and Operating Model, supported by a Cloud Competence Center, specifically to provide:</p>
+<ul>
+  <li>Creation of new Cloud Services, in particular PaaS</li>
+  <li>Integration of brokered Public Cloud Services</li>
+  <li>Adoption of new skills and roles to drive an Agile culture</li>
+  <li>Review of security and compliance for Cloud and DevOps</li>
+  <li>Review of app portfolio for containerization and migration</li>
+  <li>Design of key assets, including Architecture Center Portal</li>
+  <li>Design of a multi-Cloud DevOps Toolchain and Practice</li>
+</ul>
+
+<p>This covered a multicloud &amp; legacy portfolio of 4.000+ Applications in terms of service catalog, chargeback, architecture topology, toolchain, migration, etc.</p>
+
+<h3 id="client-context">Client Context</h3>
+<ul>
+  <li>Among the world’s Top 10 Banks based out of Europe; was lacking an accelerated approach for a holistic Cloud Transformation.</li>
+  <li>The Project dedicated to the Client-IBM JV (multi-billion contract), providing IT &amp; Cloud services to the Group’s business units.</li>
+  <li>New Group CIO demanding IT to show true Cloud capabilities comparable to leading market player to avoid increasing shadow IT.</li>
+  <li>Strategy &amp; Initiation phase spanning across the IT organization including Operating Model and CCC Creation.</li>
+</ul>
+
+<h3 id="ibm-solution">IBM Solution</h3>
+
+<p>JV with IBM: A holistic Multicloud Transformation &amp; Business-centric Operating Model driven through a CCC.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>IBM Solution</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/bnp.png" alt="BNP Solution" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<ol>
+  <li>3 use-case based pilot solutions in the process of rollout: DevOps Toolchain, Architecture Center Portal, IBM Cost &amp; Asset Management.</li>
+  <li>8 new Services / Capabilities identified as 2019 backlog. Initial Cloud Affinity Assessment of 3000+ Applications performed (using BlueCAT).</li>
+  <li>2 New organizational entities, CCC and Transformation Management Unit designed for “Crawl” phase.</li>
+  <li>A holistic 2022 Cloud Transformation Roadmap and Governance System.</li>
+</ol>
+:ET

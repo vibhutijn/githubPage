@@ -1,0 +1,66 @@
+I"ã<h1 class="no_toc" id="co-existence-scenarios">Co-existence Scenarios</h1>
+
+<p>Modernization of monolithic application to microservice based application needs monolithic &amp; modern application to co-exist until the modernization is complete. To facilitate this co-existence, a co-existence integration layer needs to be built using various integration patterns across on-premise and cloud.</p>
+
+<p>Thus, the co-existence layer is a by-product of incremental modernization to deliver modernized functionality into production in controlled risk adverse manner.</p>
+
+<p>Co-existence supports multiple patterns for the incremental modernization in both the scenarios listed below:</p>
+
+<h2 id="scenario-1-current-state-reads-from-and-writes-to-modernized-data">Scenario 1: Current state reads from and writes to modernized data</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Current state reads from and writes to modernized data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../../../resources/current-to-modernized.png" alt="current-to-modernized.png" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Current state datasets are decommissioned; and the data is completely moved to the modernized state with its access is guarded by the domain/data services designed around that dataset. The current state reads and updates this data residing in the target state.</li>
+  <li>
+    <p>This pattern can be used when modernized data to current state data transformation complexity is minimal and performance requirements are relaxed, thereby allowing real time transformation for reading &amp; writing to modernized data from the current state.</p>
+  </li>
+  <li><strong>Examples</strong> :
+    <ul>
+      <li>A status code, indicator, or flag value is needed on the current state that was transformed into a new value set when loaded to the modernized data model.</li>
+      <li>A complex batch job, in part or is not modernized along with a given modernization roll out, but a status code or aggregated value needs to be transformed and updated on the modernized database since the current state equivalent table was decommissioned.</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="scenario-2-modernized-state-reads-and-writes-to-current-state-data">Scenario 2: Modernized state reads and writes to current state data</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Modernized state reads and writes to current state data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../../../resources/modernized-to-current.png" alt="modernized-to-current.png" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Modernized data needs a subset of data from the current state (e.g. master data). A functionality is moved incrementally and the modernized data needs to update a subset of data from the current state.</li>
+  <li>
+    <p>This pattern supports incremental modernization roll out where modernized data and current state data can be brought together in context within the modernized application.</p>
+  </li>
+  <li><strong>Examples</strong> :
+    <ul>
+      <li>The modernized solution needs customer data reflected in the modernized user interface that has not yet been added to the modernized data model (e.g. customer name).</li>
+      <li>Critical business owned applications need replica of current state key data that cannot be changed in the timeframe planned for a given modernization roll out.</li>
+    </ul>
+  </li>
+</ul>
+:ET
