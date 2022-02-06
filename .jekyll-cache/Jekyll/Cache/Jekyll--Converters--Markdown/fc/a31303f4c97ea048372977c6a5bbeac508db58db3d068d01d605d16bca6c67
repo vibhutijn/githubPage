@@ -1,0 +1,594 @@
+I"�y<h1 class="no_toc" id="organization--functions">Organization &amp; Functions</h1>
+
+<hr />
+
+<details open="">
+  <summary class="text-delta">
+    Table of Contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#overview" id="markdown-toc-overview">Overview</a></li>
+  <li><a href="#centre-of-excellence" id="markdown-toc-centre-of-excellence">Centre of Excellence</a>    <ol>
+      <li><a href="#strategy-architecture--demand" id="markdown-toc-strategy-architecture--demand">Strategy, Architecture &amp; Demand</a>        <ol>
+          <li><a href="#purpose" id="markdown-toc-purpose">Purpose</a></li>
+          <li><a href="#core-activities" id="markdown-toc-core-activities">Core Activities</a></li>
+          <li><a href="#roles" id="markdown-toc-roles">Roles</a></li>
+        </ol>
+      </li>
+      <li><a href="#adoption--communities" id="markdown-toc-adoption--communities">Adoption &amp; Communities</a>        <ol>
+          <li><a href="#purpose-1" id="markdown-toc-purpose-1">Purpose</a></li>
+          <li><a href="#core-activities-1" id="markdown-toc-core-activities-1">Core Activities</a></li>
+          <li><a href="#roles-1" id="markdown-toc-roles-1">Roles</a></li>
+        </ol>
+      </li>
+      <li><a href="#education-talent-and-skills" id="markdown-toc-education-talent-and-skills">Education, Talent, and Skills</a>        <ol>
+          <li><a href="#purpose-2" id="markdown-toc-purpose-2">Purpose</a></li>
+          <li><a href="#core-activities-2" id="markdown-toc-core-activities-2">Core Activities</a></li>
+          <li><a href="#roles-2" id="markdown-toc-roles-2">Roles</a></li>
+        </ol>
+      </li>
+      <li><a href="#security-risk--compliance" id="markdown-toc-security-risk--compliance">Security, Risk &amp; Compliance</a>        <ol>
+          <li><a href="#purpose-3" id="markdown-toc-purpose-3">Purpose</a></li>
+          <li><a href="#core-activities-3" id="markdown-toc-core-activities-3">Core Activities</a></li>
+          <li><a href="#roles-3" id="markdown-toc-roles-3">Roles</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li><a href="#platform-engineering--operations" id="markdown-toc-platform-engineering--operations">Platform Engineering &amp; Operations</a>    <ol>
+      <li><a href="#brokerage--orchestration" id="markdown-toc-brokerage--orchestration">Brokerage &amp; Orchestration</a>        <ol>
+          <li><a href="#purpose-4" id="markdown-toc-purpose-4">Purpose</a></li>
+          <li><a href="#core-activities-4" id="markdown-toc-core-activities-4">Core Activities</a></li>
+          <li><a href="#roles-4" id="markdown-toc-roles-4">Roles</a></li>
+        </ol>
+      </li>
+      <li><a href="#api--integration-management" id="markdown-toc-api--integration-management">API &amp; Integration Management</a>        <ol>
+          <li><a href="#purpose-5" id="markdown-toc-purpose-5">Purpose</a></li>
+          <li><a href="#core-activities-5" id="markdown-toc-core-activities-5">Core Activities</a></li>
+          <li><a href="#roles-5" id="markdown-toc-roles-5">Roles</a></li>
+        </ol>
+      </li>
+      <li><a href="#infrastructure-management" id="markdown-toc-infrastructure-management">Infrastructure Management</a>        <ol>
+          <li><a href="#purpose-6" id="markdown-toc-purpose-6">Purpose</a></li>
+          <li><a href="#core-activities-6" id="markdown-toc-core-activities-6">Core Activities</a></li>
+          <li><a href="#roles-6" id="markdown-toc-roles-6">Roles</a></li>
+        </ol>
+      </li>
+      <li><a href="#platform-product-engineering-and-management" id="markdown-toc-platform-product-engineering-and-management">Platform Product Engineering and Management</a>        <ol>
+          <li><a href="#purpose-7" id="markdown-toc-purpose-7">Purpose</a></li>
+          <li><a href="#core-activities-7" id="markdown-toc-core-activities-7">Core Activities</a></li>
+          <li><a href="#roles-7" id="markdown-toc-roles-7">Roles</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li><a href="#application-engineering--ops" id="markdown-toc-application-engineering--ops">Application Engineering &amp; Ops</a>    <ol>
+      <li><a href="#application-product-engineering-squads" id="markdown-toc-application-product-engineering-squads">Application Product Engineering Squads</a>        <ol>
+          <li><a href="#purpose-8" id="markdown-toc-purpose-8">Purpose</a></li>
+          <li><a href="#core-activities-8" id="markdown-toc-core-activities-8">Core Activities</a></li>
+          <li><a href="#roles-8" id="markdown-toc-roles-8">Roles</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li><a href="#integrated-service-management" id="markdown-toc-integrated-service-management">Integrated Service Management</a>    <ol>
+      <li><a href="#customer-assistance" id="markdown-toc-customer-assistance">Customer Assistance</a>        <ol>
+          <li><a href="#purpose-9" id="markdown-toc-purpose-9">Purpose</a></li>
+          <li><a href="#core-activities-9" id="markdown-toc-core-activities-9">Core Activities</a></li>
+          <li><a href="#roles-9" id="markdown-toc-roles-9">Roles</a></li>
+        </ol>
+      </li>
+      <li><a href="#operations-command-centre" id="markdown-toc-operations-command-centre">Operations Command Centre</a>        <ol>
+          <li><a href="#purpose-10" id="markdown-toc-purpose-10">Purpose</a></li>
+          <li><a href="#core-activities-10" id="markdown-toc-core-activities-10">Core Activities</a></li>
+          <li><a href="#roles-10" id="markdown-toc-roles-10">Roles</a></li>
+        </ol>
+      </li>
+      <li><a href="#service-excellence" id="markdown-toc-service-excellence">Service Excellence</a>        <ol>
+          <li><a href="#purpose-11" id="markdown-toc-purpose-11">Purpose</a></li>
+          <li><a href="#core-activities-11" id="markdown-toc-core-activities-11">Core Activities</a></li>
+          <li><a href="#roles-11" id="markdown-toc-roles-11">Roles</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+</details>
+
+<hr />
+
+<h2 id="overview">Overview</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>4 Pillars</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/tom-4-pillars-basic.png" alt="4 pillars" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>You have earlier seen how enterprises are organising themselves in the digital and multicloud world and the four kind of organizations thus forming.</p>
+
+<p>Within each of these elements, there are various functions that support product development and operations:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>4 Pillars Function</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/tom-4-pillars-function.png" alt="4 pillar functionss" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="centre-of-excellence">Centre of Excellence</h2>
+
+<p><br /></p>
+
+<h3 id="strategy-architecture--demand">Strategy, Architecture &amp; Demand</h3>
+
+<p><br /></p>
+
+<h4 id="purpose">Purpose</h4>
+
+<ul>
+  <li>Provides overall direction by being responsible for aligning both cloud and IT strategy with the broader enterprise strategy.</li>
+  <li>Owns and iterates a “to-be” cloud vision, and provides governance to ensure projects, services and products are operated in a standardised and strategical aligned method.</li>
+  <li>Defines and maintains the Enterprise’s cloud strategy, policy and architectural references (including integration, infrastructure, software &amp; licenses and disaster recovery).</li>
+  <li>Collects new requirements for functionality to be implemented.</li>
+  <li>Acts as a consultant and/or advisor for Lines of Business expected to consume its products and services, consulting on delivery and best practices associated with cloud technologies.</li>
+</ul>
+
+<p><br /></p>
+
+<h4 id="core-activities">Core Activities</h4>
+
+<p>Responsible and Accountable for:</p>
+<ul>
+  <li>Continuously reviewing and communicating cloud strategy against business strategy objectives</li>
+  <li>Defining and maintaining cloud reference architecture, patterns, principles and standards for the Cloud Platform</li>
+  <li>Managing cloud architecture governance on behalf of the Centre of Excellence</li>
+  <li>Developing and maintaining guidelines and policies for cloud integration, cloud infrastructure, configuration management, software &amp; license management and disaster recovery</li>
+  <li>Defining and maintaining target “to-be” cloud estate and transition states for cloud implementation</li>
+  <li>Understanding customer needs and validating solutions from customer perspective.</li>
+  <li>Translating business requirements into Solution Design Documents and initial product or service roadmap (implemented by AEO/PEO)</li>
+  <li>Monitoring and tracking new business requirements and technology approaches based on demand</li>
+</ul>
+
+<p>Consulted on activities linked to Platform Engineering Operations, Application Engineering Operations, and Integrated Service Management.</p>
+
+<p><br /></p>
+
+<h4 id="roles">Roles</h4>
+<ul>
+  <li>Centre of Excellence Lead — Define and agree Vision, Mission, and Goals for Cloud Strategy Operating Model — in line with Business Outcomes set by Enterprise C-Suite—and drive alignment of IT products &amp; services with consumer demands and BoB innovation</li>
+  <li>Architecture Squads [Chief Solution Architect; Cloud Platform Architect; Transformation SRE; Security Consultant; DevSecOps Engineer] — Determine cloud architecture strategy (and associated policies and standards) and data stewardship standards in tandem with enterprise architecture strategy; Defines the service integration strategy and architecture for the enterprise; Drive alignment for a full stack product or service solution that meets customer demand</li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="adoption--communities">Adoption &amp; Communities</h3>
+
+<p><br /></p>
+
+<h4 id="purpose-1">Purpose</h4>
+<p>Collects new requirements for functionality to be implemented into the Centre of Excellence, Application Engineering &amp; Operations, Platform Engineering &amp; Operations, and Integrated Service Management. Acts as a consultant and/or advisor for Lines of Business and Delivery on best practices associated with cloud technologies, application modernisation and application migration.</p>
+
+<p><br /></p>
+
+<h4 id="core-activities-1">Core Activities</h4>
+
+<p>Responsible and Accountable for:</p>
+
+<p><em>Communications Strategy and Marketing</em></p>
+<ul>
+  <li>Continuously develop and communicate the vision to Enterprise stakeholders</li>
+  <li>Determine marketing communication methods and frequency </li>
+</ul>
+
+<p><em>Methods and Knowledge</em></p>
+<ul>
+  <li>Develop, maintain and share relevant industry and business knowledge</li>
+  <li>Maintain and create standard development methods to share across all areas of the business</li>
+  <li>Share information on existing cloud capabilities to Enterprise</li>
+  <li>Implement, update and maintain mechanisms for cloud knowledge management</li>
+  <li>Maximise reuse by sharing of solutions across AEO and PEO teams</li>
+</ul>
+
+<p><em>Cloud Transformation/Migration Support</em> (as needed)</p>
+<ul>
+  <li>Support the migration to Cloud of the legacy IT estate (where appropriate) by defining the approach and principles appropriate for an application centric migration</li>
+  <li>Perform cloud affinity assessment &amp; workload analysis for each service/application proposed to move to the Cloud</li>
+  <li>Run cloud affinity and workload analysis for all departments/sectors/businesses within the organisation</li>
+  <li>Create cloud transformation roadmap based on affinity, workload and difficulty ratings.</li>
+  <li>Provide estimates for modernisation of applications</li>
+</ul>
+
+<p><br /></p>
+
+<h4 id="roles-1">Roles</h4>
+
+<ul>
+  <li>Centre of Excellence Lead – Leads cloud within the Enterprise</li>
+  <li>Cloud Ambassador - Acts as a consumer advocate for cloud services</li>
+  <li>Cloud Engagement Manager - Interfaces with the Lines of Business to understand and interpret business needs</li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="education-talent-and-skills">Education, Talent, and Skills</h3>
+
+<p><br /></p>
+
+<h4 id="purpose-2">Purpose</h4>
+
+<p>Manages resourcing, skills assessments, upskilling &amp; development and the arrival of expertise at the right time. Leverage existing talent within the Enterprise, procure talent outside the Enterprise, and upskill individuals with skills that best align to business and IT needs.</p>
+
+<p><br /></p>
+
+<h4 id="core-activities-2">Core Activities</h4>
+
+<p>Responsible and Accountable for -</p>
+<ul>
+  <li>Analysing current team skills and  skill gaps</li>
+  <li>Leveraging partner organisations to augment roles within Organisation as required</li>
+  <li>Establishing re-skilling initiatives</li>
+  <li>Establishing initiatives, processes and policies to capture and retain cloud talent</li>
+  <li>Establishing cloud enablement education programs, workshops and seminars</li>
+  <li>Mapping cloud education and training to roles and responsibilities</li>
+  <li>Establishing cloud re-skilling programs</li>
+  <li>Conducting training of user communities and IT support resources</li>
+  <li>Educating relevant stakeholders in their responsibility for compliance</li>
+  <li>Organising and managing community events</li>
+  <li>Integrating external community partner services into portal</li>
+  <li>Setting up partner external community relationship</li>
+</ul>
+
+<p><br /></p>
+
+<h4 id="roles-2">Roles</h4>
+<ul>
+  <li>People and Talent Lead – Create business case for talent (upskilling of existing talent, acquisition of new talent, cross-skilling of talent, etc) to align with evolving needs of business delivered by the IT organisation; Own relationship between HR and the IT organisation to ensure both are tightly coupled</li>
+  <li>Cloud Education Specialist – Drives cloud operational efficiency by building cloud training offerings</li>
+  <li>Talent Acquisition Manager – Coordinate and drive acquisition of talent in line with business skillset requirements</li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="security-risk--compliance">Security, Risk &amp; Compliance</h3>
+
+<p><br /></p>
+
+<h4 id="purpose-3">Purpose</h4>
+
+<p>Provides confidence to Enterprise that IT products and services meet the regulatory and compliance requirements as outlined by geographical regions, industry bodies and Enterprise policy. Outline, review, iterate and communicate controls in line with the agreed organisational risk and compliance framework. Provide SecOps function with confirmation that cloud Platform and associated cloud products and services comply with Enterprise security rules and standards. Set, manage, and report on all security standards whilst assessing new and existing projects and tooling for compliance with regulation.</p>
+
+<h4 id="core-activities-3">Core Activities</h4>
+<p>Responsible and Accountable for:</p>
+<ul>
+  <li>Defining application, network, data, identity and access management, and system security guidelines and policies (in line with best practice for cloud products &amp; services)</li>
+  <li>Understanding regulatory and confidentiality requirements and policies and add into products and services backlogs</li>
+  <li>Documenting the internal and external context of each security, privacy and data protection risk, and the evaluation criteria</li>
+  <li>Reviewing and monitoring physical and logical data security measures</li>
+  <li>Reviewing and monitoring application security controls</li>
+  <li>Monitoring network intrusion detection data</li>
+  <li>Creating and maintaining the policies and supporting controls for cloud under enterprise risk management framework</li>
+  <li>Managing, maintaining and reporting on compliance policies, standards and processes (following predefined cadence)</li>
+  <li>Determining and understanding the relevant regulatory and audit requirements</li>
+  <li>Embedding ownership and responsibility for IT-related risks within the business at an appropriate senior level</li>
+  <li>Identifying and evaluating risks related to information security, cloud project management, cloud sourcing, etc.</li>
+  <li>Identifying and prioritising projects to enhance cloud compliance and to remediate identified issues/risks</li>
+</ul>
+
+<p><br /></p>
+
+<h4 id="roles-3">Roles</h4>
+
+<ul>
+  <li>Cloud Auditor - Ensures Cloud environment compliance is being performed according to the agreed and documented processes</li>
+  <li>Cloud Service Security &amp; Risk Manager – Implements security and compliance policy</li>
+</ul>
+
+<hr />
+
+<h2 id="platform-engineering--operations">Platform Engineering &amp; Operations</h2>
+
+<p><br /></p>
+
+<h3 id="brokerage--orchestration">Brokerage &amp; Orchestration</h3>
+
+<p><br /></p>
+
+<h4 id="purpose-4">Purpose</h4>
+
+<p>Ensures the commercial and/or contractual arrangements associated with the third parties (e.g., ATOS, cloud vendors, etc.) that are part of the provision and implementation of cloud-related products and services are strategically planned and managed such that they deliver maximum value, low risk and are financially beneficial to the Enterprise.</p>
+
+<p><br /></p>
+
+<h4 id="core-activities-4">Core Activities</h4>
+
+<ul>
+  <li>Defining and implementing a category strategy for procuring cloud services (i.e. vendor management strategy)</li>
+  <li>Defining and running the partner qualification, selection and management approach</li>
+  <li>Managing active/ongoing contracts</li>
+  <li>Procuring/purchasing cloud services &amp; products</li>
+  <li>Providing financial guidance for funding requests, procurement, and business case development for cloud services</li>
+  <li>Developing and operating the financial model and process for cloud products and services</li>
+  <li>Publishing &amp; maintaining agreed cloud service pricing models</li>
+  <li>Providing a centralised billing capability and aggregating and reconciling bill for each cloud customer</li>
+  <li>Establishing CSOM business accounting and funding mechanisms</li>
+  <li>Creating and maintaining cloud budgets</li>
+  <li>Providing financial management of cloud assets</li>
+  <li>Developing and managing accounting controls and standards</li>
+  <li>Establishing and operating financial reporting framework including the monitoring of all costs and variances</li>
+  <li>Negotiating relationships between providers and cloud consumers</li>
+  <li>Developing standard cloud customer contracts and relationship management approaches</li>
+</ul>
+
+<p><br /></p>
+
+<h4 id="roles-4">Roles</h4>
+
+<ul>
+  <li>Cloud Pricer - Manages cost of Cloud services offering</li>
+  <li>Cloud Service Provider Management - Negotiates relationships between cloud providers and cloud consumers. Interfaces with external service suppliers to support purchasing and contract management</li>
+  <li>Cloud Financial Manager - Manages and enforces all aspects of CSP cost and consumer pricing</li>
+  <li>Cloud Marketplace Manager –Manages the marketplace evolution and ensures access to the services for end users</li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="api--integration-management">API &amp; Integration Management</h3>
+
+<p><br /></p>
+
+<h4 id="purpose-5">Purpose</h4>
+
+<p>Publish, promote and oversee application programming interfaces in a secure, scalable environment, including end user support resources that define and document the API. Create business agility to drive rapid business reconfiguration (i.e. to revamp customer experience, address regulatory challenges (GDPR), etc.). Provide ease of use for APIs. Track and manage APIs in use. Build a framework for enforcing agreements on API use and security access control.</p>
+
+<p><br /></p>
+
+<h4 id="core-activities-5">Core Activities</h4>
+
+<ul>
+  <li>Planning, design, implementation, testing, publication, operation, consumption, maintenance, versioning and retirement of APIs</li>
+  <li>Elaborating channel IT design requirements</li>
+  <li>Delivering a developer portal through which to target, market to and govern communities of developers who embed APIs</li>
+  <li>Conducting runtime management</li>
+  <li>Enforcing relevant API security policies and requests and also guarantees authorization and security. </li>
+  <li>Estimating APIs’ value</li>
+  <li>Using analytics to understand patterns of API usage [i.e. monitor API usage, load, transaction logs, historical data and other metrics that better inform the status as well as the success of the APIs available] </li>
+  <li>Informing developers when an API is scheduled to be retired or deprecated, and what alternative APIs might be offered (frequently with a new pricing plan)</li>
+</ul>
+
+<p><br /></p>
+
+<h4 id="roles-5">Roles</h4>
+
+<ul>
+  <li>Cloud Service Integration Architect—Defines the service integration strategy and architecture for the enterprise</li>
+  <li>Cloud Service Composer &amp; Developer—Creates/bundles products and services for end-user consumption</li>
+  <li>Cloud Service Integration Engineer—Technical focal point for cloud service integration within the IT ecosystem</li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="infrastructure-management">Infrastructure Management</h3>
+
+<p><br /></p>
+
+<h4 id="purpose-6">Purpose</h4>
+
+<p>Maintain legacy estate (data centres, hardware, networks, mainframe, etc.) to ensure access and performance are uncompromised while exploring areas for transformation in alignment with business transformation goals and strategic priorities.</p>
+
+<p><br /></p>
+
+<h4 id="core-activities-6">Core Activities</h4>
+
+<ul>
+  <li>Managing physical infrastructure platform according to internal service level agreements</li>
+  <li>Managing physical capacity expansion in-line with growth forecasts</li>
+  <li>Managing physical assets usage optimisation and currency</li>
+  <li>Managing to policy compliance</li>
+  <li>Conducting server configuration, server commissioning and decommissioning, server and backup management, server management remote and onsite, desktop management, database management, and network management LAN/WAN</li>
+  <li>Understanding implications/constraints of enterprise application and infrastructure architectures</li>
+  <li>Determining integration requirements between IT services and solutions</li>
+  <li>Identify opportunities for shared capabilities at a service/solution implementation level</li>
+  <li>Developing and maintaining service and solution architecture</li>
+</ul>
+
+<p><br /></p>
+
+<h4 id="roles-6">Roles</h4>
+
+<ul>
+  <li>Infrastructure Manager—Manage existing core infrastructure to maintain performance and availability</li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="platform-product-engineering-and-management">Platform Product Engineering and Management</h3>
+
+<p><br /></p>
+
+<h4 id="purpose-7">Purpose</h4>
+
+<p>Design, develop, test and deploy cloud platform to best align with evolving marketplace demands for cloud products in coordination with Application Development Squads. Ensure platform is built in line with security, risk, and compliance policies and standards and adheres to standards around capacity, availability, and reliability. Perform proactive and reactive management of platform products.</p>
+
+<p><br /></p>
+
+<h4 id="core-activities-7">Core Activities</h4>
+
+<ul>
+  <li>Defining platform architecture specific to the applications (in consultation with App Dev Squads)</li>
+  <li>Designing development tools environment changes specific to the applications (in consultation with App Dev Squads)</li>
+  <li>Configuring DevOps environments, tools &amp; automation frameworks for the development of platform</li>
+  <li>Leveraging DevOps &amp; Automation to build &amp; deploy the platforms needed for common services</li>
+  <li>Ensuring reliability is built into common platform</li>
+  <li>Proactively managing and continuously improving the platform</li>
+  <li>Developing and deploying automation and other best practices to address opportunities</li>
+  <li>Performing reactive management of the platform(s) to the required SLAs and contractual agreements</li>
+</ul>
+
+<p><br /></p>
+
+<h4 id="roles-7">Roles</h4>
+
+<ul>
+  <li>Platform Build Squads [Cloud Platform Architect; Platform Security and Quality Assurance; Platform SREs; Platform Specialists; Platform Developer (patterns/automation)] — Build and manage platform services in Agile manner</li>
+  <li>Shared Platform Squad — DevOps and Tooling — jointly design the development tools environment changes specific to the application group, leveraging common services</li>
+</ul>
+
+<hr />
+
+<h2 id="application-engineering--ops">Application Engineering &amp; Ops</h2>
+
+<p><br /></p>
+
+<h3 id="application-product-engineering-squads">Application Product Engineering Squads</h3>
+
+<p><br /></p>
+
+<h4 id="purpose-8">Purpose</h4>
+
+<p>Innovate, design, develop, test and deploy an application (in Agile teams) to align with evolving marketplace demands for cloud products. Coordinate with Lines of Business, in alignment with a particular Value Stream (e.g.) to define and manage information throughout the product lifecycle. Leverage cutting edge technologies and ways of working to remain tightly coupled with delivering products that delight customers.</p>
+
+<p><br /></p>
+
+<h4 id="core-activities-8">Core Activities</h4>
+
+<ul>
+  <li>Understanding consumer demands and trends to ensure product development properly addresses needs in the marketplace</li>
+  <li>Translating consumer needs into requirements and own lifecycle for application (in consultation with Platform Squads, as applicable)</li>
+  <li>Developing common services to meet the functional requirements, following design created by architects</li>
+  <li>Ensuring non-functional requirements are met and Build to Manage principles are followed</li>
+  <li>Leveraging DevOps &amp; Automation to build &amp; deploy products</li>
+  <li>Proactively managing and continuously improving the applications</li>
+  <li>Developing and deploy automation and other best practices to address opportunities</li>
+  <li>Maintaining the functional elements of applications</li>
+  <li>Maintaining non-functional elements (in consultation with Platform SREs)</li>
+</ul>
+
+<p><br /></p>
+
+<h4 id="roles-8">Roles</h4>
+
+<ul>
+  <li>Application Development Squads [Application Developers; Application Security and Quality Assurance; Application SREs]—Build and manage applications in Agile manner</li>
+  <li>User Researcher—Research marketplace demands to ensure aliment with existing product portfolio; Identify areas for new products based on evolutions in the marketplace</li>
+  <li>User Experience Designer—Design products based on insights from UX in consultation with App Dev Squads</li>
+  <li>DevOps Transformation Lead Engineer—Coordinates DevOps practices definition and adoption</li>
+</ul>
+
+<hr />
+
+<h2 id="integrated-service-management">Integrated Service Management</h2>
+
+<p><br /></p>
+
+<h3 id="customer-assistance">Customer Assistance</h3>
+
+<p><br /></p>
+
+<h4 id="purpose-9">Purpose</h4>
+
+<p>Own and manage relationship with consumers of cloud products and services to ensure consistent, high quality interactions. Monitor quality using OKRs and report results to stakeholders to visibility into quality on regular basis.</p>
+
+<p><br /></p>
+
+<h4 id="core-activities-9">Core Activities</h4>
+
+<ul>
+  <li>Owning and managing relationship with consumers of cloud products and services</li>
+  <li>Managing day to day interactions with customers (internal and external)</li>
+  <li>Ensuring high quality customer interactions via comprehensive monitoring and reporting</li>
+  <li>Monitoring quality using OKRs agreed by Cloud Customer Support &amp; Care resource</li>
+  <li>Liaising with Operations Command Centre on resolution of complex customer service situations</li>
+</ul>
+
+<p><br /></p>
+
+<h4 id="roles-9">Roles</h4>
+
+<ul>
+  <li>Cloud Customer Support &amp; Care –Assists with usage and change management as first point of contact</li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="operations-command-centre">Operations Command Centre</h3>
+
+<p><br /></p>
+
+<h4 id="purpose-10">Purpose</h4>
+
+<p>Owns the operation of the cloud platform and ensures its alignment with standard Enterprise operating procedures. Implement and operate Enterprise cloud platform services, enabling accelerated delivery of new cloud products and services in a controlled and secure manner. Ensure the guidelines and policies for operations are clearly defined and maintained.</p>
+
+<p><br /></p>
+
+<h4 id="core-activities-10">Core Activities</h4>
+
+<ul>
+  <li>Forecasting business volumes for cloud services</li>
+  <li>Providing Cloud User and Account Management</li>
+  <li>Conducting compliance/risk monitoring and reporting (upon consulting Risk &amp; SecOps)</li>
+  <li>Monitoring and managing risks related to ongoing cloud activities based on cadence identified in the Enterprise Risk Framework (including information security, cloud project management, and cloud sourcing)</li>
+  <li>Developing and maintaining Cloud infrastructure Release and deployment guidelines and policies</li>
+  <li>Developing and maintaining Configuration management guidelines and policies</li>
+  <li>Developing and maintaining software and license management guidelines &amp; policies</li>
+  <li>Developing back up and archive strategy and supporting guidelines &amp; policies</li>
+  <li>Developing and maintaining DR management guidelines &amp; policies</li>
+  <li>Developing event management strategy, guidelines and policies</li>
+</ul>
+
+<p><br /></p>
+
+<h4 id="roles-10">Roles</h4>
+
+<ul>
+  <li>Cloud Operations Manager –Owns daily operational activities</li>
+  <li>First Responder –Ensures rapid response to service level breaches</li>
+  <li>Site Reliability Engineer –Executes and optimizes automated operations</li>
+  <li>Cloud Operator –Supports cloud products &amp; services</li>
+</ul>
+
+<h3 id="service-excellence">Service Excellence</h3>
+
+<p><br /></p>
+
+<h4 id="purpose-11">Purpose</h4>
+
+<p>Monitoring and managing service to ensure quality is aligned with Service Management Strategy. Action changes in service (at either a strategic or tactical level) in accordance with Customer Service quality ratings. Monitor and manage service quality to ensure quality is sufficiently high enough to meet customer expectations.</p>
+
+<p><br /></p>
+
+<h4 id="core-activities-11">Core Activities</h4>
+
+<ul>
+  <li>Developing and maintaining KPI data collection guidelines</li>
+  <li>Developing and maintaining checklist of introduction of infrastructure to production</li>
+  <li>Understanding implications/constraints of enterprise applications</li>
+  <li>Assisting cloud migration execution (provision new environment, validate compliance, prepare tools, create runbook)</li>
+  <li>Providing support for early operational problems</li>
+  <li>Defining processes for resolving service performance issues and proactively identifying improvement opportunities</li>
+</ul>
+
+<p><br /></p>
+
+<h4 id="roles-11">Roles</h4>
+
+<ul>
+  <li>Cloud Service Manager –Owns daily operational activities</li>
+</ul>
+:ET

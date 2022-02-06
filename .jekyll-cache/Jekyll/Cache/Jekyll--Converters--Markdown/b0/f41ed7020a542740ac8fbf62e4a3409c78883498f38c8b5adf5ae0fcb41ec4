@@ -1,0 +1,87 @@
+I"�<h1 class="no_toc" id="event-driven">Event Driven</h1>
+
+<hr />
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#overview" id="markdown-toc-overview">Overview</a></li>
+  <li><a href="#enabling-event-integration-for-legacy-systems" id="markdown-toc-enabling-event-integration-for-legacy-systems">Enabling Event Integration for Legacy Systems</a></li>
+  <li><a href="#event-driven-data-synchronization" id="markdown-toc-event-driven-data-synchronization">Event Driven Data Synchronization</a></li>
+</ol>
+
+</details>
+
+<hr />
+
+<h2 id="overview">Overview</h2>
+
+<p>Event-driven architecture (EDA) is a common pattern that involves production, detection, consumption, and reaction to events.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Event-Driven Architecture (EDA) Workflow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../../../resources/eda-workflow.png" alt="eda-workflow.png" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Event Driven integrations are <em>triggered by an event</em> in one system and trigger a predefined corresponding event in another. An event can be anything that happens in a particular system that you’ve integrated with, such as e.g. order creation in online shopping, lead creation in a CRM, a new registration received, etc.</p>
+
+<p>Event driven integrations are suitable for <em>functional integration</em>. It is not a direct candidate option for syncing all data quickly and easily.</p>
+
+<p>Event driven integrations are suitable for simple point to point data transfer when certain events take place in a system and you want to trigger corresponding actions in the other system.</p>
+
+<hr />
+
+<h2 id="enabling-event-integration-for-legacy-systems">Enabling Event Integration for Legacy Systems</h2>
+
+<p>There are older systems which are not enabled to accept and act on events. You can choose to write <strong>event adaptors</strong>. These event adaptors intercept incoming events and pass them to the backend system in the native format. They then receive response from backend systems and put an optional outgoing event too.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">EDA Adaptor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../../../resources/eda-legacy-event-adaptor.png" alt="eda-legacy-event-adaptor.png" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="event-driven-data-synchronization">Event Driven Data Synchronization</h2>
+
+<p>Data Driven integrations have a different action that triggers synchronization. This action is a <em>change in the data</em> that you have in place in either system. This can be a <em>new record created</em> or a <em>change in an existing record</em> and more.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">EDA Integration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../../../resources/event-driven-data-integration.png" alt="event-driven-data-integration.png" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Any change in data will trigger a sync operation of the <em>delta in the data</em> to the other system(s). For example, a new entry in the order fulfillment system should trigger an update in the CRM system to reflect the customer’s order history.</p>
+
+<p>Even driven data integration makes easy to achieve an enterprise-class type of integration with easy setup and maintenance.</p>
+
+<p>One example of data synchronization is necessity to access data located in the on-premises data center from an application deployed in cloud. Data driven event based integration can come to rescue here. You can add a change data capture mechanism in front of the legacy datastore which can publish the change-sets of the data in order to synchronize your datastore in the cloud.</p>
+
+<p>Data driven integrations are suitable for integrations with systems where you want to keep your data in sync regardless of the event that takes place.</p>
+:ET

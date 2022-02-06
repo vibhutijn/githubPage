@@ -1,0 +1,35 @@
+I"½<h1 class="no_toc" id="apification">APIfication</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">APIfication</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../../../resources/apification.png" alt="apification.png" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>APIfication offers functionality and data as a service for other systems to use. It opens up new ways composing and exposing existing functionality.</li>
+  <li>
+    <p>An API hides the actual implementation and reveals only the simplified interactive model to the user.</p>
+  </li>
+  <li>APIFication can be done in a <em>proactive</em> or <em>reactive</em> fashion:
+    <ul>
+      <li><strong>Proactive</strong>: This includes defining the API interface first, based on forecasted need of the end consumer and then implementing it.</li>
+      <li><strong>Reactive</strong>: This includes upfront implementation followed by a continuous definition of new interfaces on top of this implementation, based on the emerging needs of end consumer and then implementing it.</li>
+    </ul>
+  </li>
+  <li><strong>Benefits of APIFication</strong>:
+    <ul>
+      <li><strong>Cost reduction</strong>: APIs promote and increase  service reuse. They provide a usage-based evolutionary development platform.</li>
+      <li><strong>Increased agility</strong>: APIs offer integration with any technology stack, so they enable greater productivity for developers.</li>
+      <li><strong>Increase innovation</strong>: By enabling others to build applications that integrate with their captive data and processes, companies see new applications that use their services in new contexts.</li>
+    </ul>
+  </li>
+</ul>
+:ET

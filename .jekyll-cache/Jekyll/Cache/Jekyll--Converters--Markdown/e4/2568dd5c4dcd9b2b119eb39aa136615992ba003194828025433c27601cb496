@@ -1,0 +1,515 @@
+I"�T<h1 class="no_toc" id="workforce-management--culture">Workforce Management &amp; Culture</h1>
+
+<p><br /></p>
+
+<p>This section tries to answer the following two questions: <br /></p>
+<ul>
+  <li>How should resources be best organised and deployed to develop digital products?</li>
+  <li>How do I change my culture to become more agile and business outcome centric?</li>
+</ul>
+
+<hr />
+
+<details open="">
+  <summary class="text-delta">
+    Table of Contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#workforce-organization" id="markdown-toc-workforce-organization">Workforce Organization</a></li>
+  <li><a href="#culture--leadership" id="markdown-toc-culture--leadership">Culture &amp; Leadership</a>    <ol>
+      <li><a href="#culture" id="markdown-toc-culture">Culture</a></li>
+      <li><a href="#leadership" id="markdown-toc-leadership">Leadership</a></li>
+      <li><a href="#references" id="markdown-toc-references">References</a></li>
+    </ol>
+  </li>
+  <li><a href="#6-workforce-management--culture" id="markdown-toc-6-workforce-management--culture">6. Workforce Management &amp; Culture</a>    <ol>
+      <li><a href="#workforce-organization-1" id="markdown-toc-workforce-organization-1">Workforce Organization</a></li>
+      <li><a href="#culture--leadership-1" id="markdown-toc-culture--leadership-1">Culture &amp; Leadership</a>        <ol>
+          <li><a href="#culture-1" id="markdown-toc-culture-1">Culture</a></li>
+          <li><a href="#leadership-1" id="markdown-toc-leadership-1">Leadership</a></li>
+          <li><a href="#references-1" id="markdown-toc-references-1">References</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+</details>
+
+<hr />
+
+<h2 id="workforce-organization">Workforce Organization</h2>
+
+<p>The next-generation operating model is made up of agile teams.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Tribe Squads</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/tribes-squads.png" alt="" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>A Tribe can be visualized as an incubator for mini start-ups or major product development. The size of a Tribe is typically not more than 100 people. Example: Loans &amp; Deposit Services, Mortgage Services, Data Services could be valid tribes in a banking enterprise.</p>
+
+<p>A Chapter is a horizontal slice across Squads within a Tribe. They have similar skills, work within the same general competency area, and within the same Tribe. A Guild is an enterprise-level Chapter. Example: Mobile Development, Service Management &amp; Operational Testing.</p>
+
+<p>Squads, as autonomous service product development unit. Example: Account balance checking, Mortgage application process &amp; Data Warehouse in the context mentioned above.</p>
+
+<p>This structure is applied across all areas of the organisation:</p>
+<ol>
+  <li>Tribes within Application Engineering &amp; Operations are organised around value streams or lines of business, with individual squads for individual services/products within them</li>
+  <li>Tribes within Platform Engineering &amp; Operations are organised around major platform areas (i.e. tooling, security etc) , with individual squads for platform product sets (i.e. automation tooling) or individual services (i.e. Terraform)</li>
+  <li>Guilds are managed and co-ordinated out of the Centre of Excellence and Integrated Service Management for various disciplines and communities of practice. They also have their own squads for developing their own products (i.e. Learning Management Platform, ITSM Tooling) and artefacts (i.e. architecture patterns, process definition)</li>
+</ol>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Tribes and Pillars</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/tribes-pillars.png" alt="Tribes and pillars" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Application and Platform Squads may also form an integrated service tribe:</p>
+
+<p><strong>Service Tribe</strong></p>
+
+<p>Integrated Services Delivery Leader for an Service is the Tribe leader for that Service, cutting across the various Application and Platform squads that support that application.</p>
+
+<p><strong>Application Squad</strong></p>
+
+<p>Manages the end to end lifecycle of the Application.</p>
+
+<p><strong>Platform Squad</strong></p>
+
+<p>Manages the end to end lifecycle of the Platform.</p>
+
+<p>Squad leader (or designate) of the Platform squad participates in the sprint planning of the applications they support; and translate platform related backlog items to the Platform squad backlog.</p>
+
+<p>Designated resources in the Platform squad provide coverage for each Application that the Platform supports.</p>
+
+<p>Platform developers in the Platform squad own creation of patterns needed for the application they are assigned to.</p>
+
+<p>Platform SREs in the Platform squad work with the Application SREs to support end to end service reliability for the application they are assigned to.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Tribes and Pillars</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/tribes-across.png" alt="Tribes and pillars" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="culture--leadership">Culture &amp; Leadership</h2>
+
+<p><br /></p>
+
+<h3 id="culture">Culture</h3>
+
+<p>An Agile Culture captures and creates more business value. It is based on more digital behaviour therefore, is Consumer &amp; Product Value Centric as opposed to the traditional business and IT cultures which were People, Process &amp; Technology Centric. Here are some ways in which Agile culture is different from a traditional cultures:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Traditional Cultures</th>
+      <th>Agile Culture</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.People intensive, Office hour desk culture</td>
+      <td>1.Automation &amp; Self-Service knowledge culture 24x7</td>
+    </tr>
+    <tr>
+      <td>2.Budget &amp; cost centric operations</td>
+      <td>2.Value &amp; outcome centric operations</td>
+    </tr>
+    <tr>
+      <td>3.Hierarchical Structure &amp; KPIs drive dept silos</td>
+      <td>3.Empowered Teams &amp; KPIs cut-across depts</td>
+    </tr>
+    <tr>
+      <td>4.Expertise &amp; information silos - protective</td>
+      <td>4.Open Collaboration, Sharing, Transparency</td>
+    </tr>
+    <tr>
+      <td>5.Project Roadmaps - deliver to spec, do not fail</td>
+      <td>5.Product Roadmaps – visionary aspiration, experimental</td>
+    </tr>
+    <tr>
+      <td>6.Corp Planning &amp; resource allocation processes - for certainty</td>
+      <td>6.Dynamic planning &amp; resource allocation – for uncertainty</td>
+    </tr>
+    <tr>
+      <td>7.Waterfall / Sequential - stability, risk-averse</td>
+      <td>7.Iterative, agile – continuous release, multi-thread</td>
+    </tr>
+    <tr>
+      <td>8.Service Quality through process &amp; audits</td>
+      <td>8.Service Quality through prediction &amp; automation</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Developers are at the center of a Cloud Transformation and key drivers of digital product success:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Cultural Drivers</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/culture.png" alt="Cultural Drivers" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>There are 26 leading practices to help drive culture &amp; leadership change.</p>
+
+<p><strong>Dynamic Teams</strong></p>
+<ol>
+  <li>Network of empowered teams</li>
+  <li>Data insights drive actions</li>
+  <li>Innovation driven process changes</li>
+  <li>Active partnerships and eco-system</li>
+  <li>Investments in disruptive technology</li>
+  <li>Distributed decision making</li>
+</ol>
+
+<p><strong>Next Generation Leadership</strong></p>
+
+<ol>
+  <li>Exec Leaders 100% aligned to a BOLD North Star</li>
+  <li>Translate the North Star vision to actionable strategic guidance</li>
+  <li>Active, capable, and visible leadership</li>
+  <li>Performance transparency and metrics</li>
+  <li>Sensing and seizing opportunities</li>
+</ol>
+
+<p><strong>Accelerated Culture</strong></p>
+
+<ol>
+  <li>Experimentation and rapid iteration</li>
+  <li>Anchor to underlining core values</li>
+  <li>Innovation and intrinsic rewards</li>
+  <li>Adaptable ways of working</li>
+  <li>Customer experience drives decision making</li>
+  <li>Enterprise-wide thinking</li>
+</ol>
+
+<p><strong>Talent Reinvented</strong></p>
+
+<ol>
+  <li>Exponential learning investments</li>
+  <li>Flexible talent allocation</li>
+  <li>Engaged experts</li>
+  <li>Autonomous teams</li>
+  <li>Realtime performance feedback</li>
+</ol>
+
+<p><strong>Engaged &amp; Inspired</strong></p>
+
+<ol>
+  <li>Seamless continuous feedback across the eco-system</li>
+  <li>Inspired, co-created experiences</li>
+  <li>Mindset of curiosity</li>
+  <li>High levels of community, trust and respect</li>
+</ol>
+
+<p><br /></p>
+
+<h3 id="leadership">Leadership</h3>
+
+<p>There are a number of factors that make good leaders that can be measured and assessed.</p>
+
+<p>Here is a model that consists of three constructs: Confidence, Openness and Impact. There are 5 sub-components for each of the three constructs grouped into development priorities: Accelerator, Growth, Inhibitors.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Leadership Model</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/leadership.png" alt="Leadership Model" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>This model measures factors which underpin behaviours, rather than the behaviours themselves. Facilitates a deeper insight for Leaders individual barriers and motivational drivers to change.</p>
+
+<p><br /></p>
+
+<h3 id="references">References</h3>
+
+<p><strong>Cultural Practices</strong></p>
+<ul>
+  <li><a href="https://www.washingtonpost.com/lifestyle/travel/new-artificial-intelligence-promises-to-make-travel-a-little-smarter-does-it/2017/06/22/819c0880-3590-11e7-b373-418f6849a004_story.html?utm_term=.34f4be9cca8a" target="_blank">https://www.washingtonpost.com/lifestyle/travel/new-artificial-intelligence-promises-to-make-travel-a-little-smarter-does-it/2017/06/22/819c0880-3590-11e7-b373-418f6849a004_story.html?utm_term=.34f4be9cca8a</a></li>
+  <li><a href="https://www.ibm.com/blogs/think/2017/03/iot-shared-data/" target="_blank">https://www.ibm.com/blogs/think/2017/03/iot-shared-data/</a></li>
+  <li><a href="http://duettoresearch.com/expedia-report-mobile-travel-booking-will-get-bigger/" target="_blank">http://duettoresearch.com/expedia-report-mobile-travel-booking-will-get-bigger/</a></li>
+  <li><a href="http://www-935.ibm.com/services/multimedia/uk_en_airlines_2020.pdf" target="_blank">http://www-935.ibm.com/services/multimedia/uk_en_airlines_2020.pdf</a></li>
+  <li><a href="https://skift.com/2017/07/27/expedia-to-invest-350-million-in-indonesia-booking-site-traveloka/" target="_blank">https://skift.com/2017/07/27/expedia-to-invest-350-million-in-indonesia-booking-site-traveloka/</a></li>
+  <li><a href="https://www.recode.net/2017/1/31/14462256/amazon-air-cargo-hub-kentucky-airport-prime-air" target="_blank">https://www.recode.net/2017/1/31/14462256/amazon-air-cargo-hub-kentucky-airport-prime-air</a></li>
+</ul>
+
+<hr />
+
+<h1 id="6-workforce-management--culture">6. Workforce Management &amp; Culture</h1>
+
+<p>This section tries to answer the following two questions: <br /></p>
+<ul>
+  <li>How should resources be best organised and deployed to develop digital products?</li>
+  <li>How do I change my culture to become more agile and business outcome centric?</li>
+</ul>
+
+<h2 id="workforce-organization-1">Workforce Organization</h2>
+
+<p>The next-generation operating model is made up of agile teams.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Tribe Squads</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/tribes-squads.png" alt="" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>A Tribe can be visualized as an incubator for mini start-ups or major product development. The size of a Tribe is typically not more than 100 people. Example: Loans &amp; Deposit Services, Mortgage Services, Data Services could be valid tribes in a banking enterprise.</p>
+
+<p>A Chapter is a horizontal slice across Squads within a Tribe. They have similar skills, work within the same general competency area, and within the same Tribe. A Guild is an enterprise-level Chapter. Example: Mobile Development, Service Management &amp; Operational Testing.</p>
+
+<p>Squads, as autonomous service product development unit. Example: Account balance checking, Mortgage application process &amp; Data Warehouse in the context mentioned above.</p>
+
+<p>This structure is applied across all areas of the organisation:</p>
+<ol>
+  <li>Tribes within Application Engineering &amp; Operations are organised around value streams or lines of business, with individual squads for individual services/products within them</li>
+  <li>Tribes within Platform Engineering &amp; Operations are organised around major platform areas (i.e. tooling, security etc) , with individual squads for platform product sets (i.e. automation tooling) or individual services (i.e. Terraform)</li>
+  <li>Guilds are managed and co-ordinated out of the Centre of Excellence and Integrated Service Management for various disciplines and communities of practice. They also have their own squads for developing their own products (i.e. Learning Management Platform, ITSM Tooling) and artefacts (i.e. architecture patterns, process definition)</li>
+</ol>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Tribes and Pillars</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/tribes-pillars.png" alt="Tribes and pillars" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Application and Platform Squads may also form an integrated service tribe:</p>
+
+<p><strong>Service Tribe</strong></p>
+
+<p>Integrated Services Delivery Leader for an Service is the Tribe leader for that Service, cutting across the various Application and Platform squads that support that application.</p>
+
+<p><strong>Application Squad</strong></p>
+
+<p>Manages the end to end lifecycle of the Application.</p>
+
+<p><strong>Platform Squad</strong></p>
+
+<p>Manages the end to end lifecycle of the Platform.</p>
+
+<p>Squad leader (or designate) of the Platform squad participates in the sprint planning of the applications they support; and translate platform related backlog items to the Platform squad backlog.</p>
+
+<p>Designated resources in the Platform squad provide coverage for each Application that the Platform supports.</p>
+
+<p>Platform developers in the Platform squad own creation of patterns needed for the application they are assigned to.</p>
+
+<p>Platform SREs in the Platform squad work with the Application SREs to support end to end service reliability for the application they are assigned to.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Tribes and Pillars</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/tribes-across.png" alt="Tribes and pillars" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="culture--leadership-1">Culture &amp; Leadership</h2>
+
+<h3 id="culture-1">Culture</h3>
+
+<p>An Agile Culture captures and creates more business value. It is based on more digital behaviour therefore, is Consumer &amp; Product Value Centric as opposed to the traditional business and IT cultures which were People, Process &amp; Technology Centric. Here are some ways in which Agile culture is different from a traditional cultures:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Traditional Cultures</th>
+      <th>Agile Culture</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.People intensive, Office hour desk culture</td>
+      <td>1.Automation &amp; Self-Service knowledge culture 24x7</td>
+    </tr>
+    <tr>
+      <td>2.Budget &amp; cost centric operations</td>
+      <td>2.Value &amp; outcome centric operations</td>
+    </tr>
+    <tr>
+      <td>3.Hierarchical Structure &amp; KPIs drive dept silos</td>
+      <td>3.Empowered Teams &amp; KPIs cut-across depts</td>
+    </tr>
+    <tr>
+      <td>4.Expertise &amp; information silos - protective</td>
+      <td>4.Open Collaboration, Sharing, Transparency</td>
+    </tr>
+    <tr>
+      <td>5.Project Roadmaps - deliver to spec, do not fail</td>
+      <td>5.Product Roadmaps – visionary aspiration, experimental</td>
+    </tr>
+    <tr>
+      <td>6.Corp Planning &amp; resource allocation processes - for certainty</td>
+      <td>6.Dynamic planning &amp; resource allocation – for uncertainty</td>
+    </tr>
+    <tr>
+      <td>7.Waterfall / Sequential - stability, risk-averse</td>
+      <td>7.Iterative, agile – continuous release, multi-thread</td>
+    </tr>
+    <tr>
+      <td>8.Service Quality through process &amp; audits</td>
+      <td>8.Service Quality through prediction &amp; automation</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Developers are at the center of a Cloud Transformation and key drivers of digital product success:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Cultural Drivers</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/culture.png" alt="Cultural Drivers" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>There are 26 leading practices to help drive culture &amp; leadership change.</p>
+
+<p><strong>Dynamic Teams</strong></p>
+<ol>
+  <li>Network of empowered teams</li>
+  <li>Data insights drive actions</li>
+  <li>Innovation driven process changes</li>
+  <li>Active partnerships and eco-system</li>
+  <li>Investments in disruptive technology</li>
+  <li>Distributed decision making</li>
+</ol>
+
+<p><strong>Next Generation Leadership</strong></p>
+
+<ol>
+  <li>Exec Leaders 100% aligned to a BOLD North Star</li>
+  <li>Translate the North Star vision to actionable strategic guidance</li>
+  <li>Active, capable, and visible leadership</li>
+  <li>Performance transparency and metrics</li>
+  <li>Sensing and seizing opportunities</li>
+</ol>
+
+<p><strong>Accelerated Culture</strong></p>
+
+<ol>
+  <li>Experimentation and rapid iteration</li>
+  <li>Anchor to underlining core values</li>
+  <li>Innovation and intrinsic rewards</li>
+  <li>Adaptable ways of working</li>
+  <li>Customer experience drives decision making</li>
+  <li>Enterprise-wide thinking</li>
+</ol>
+
+<p><strong>Talent Reinvented</strong></p>
+
+<ol>
+  <li>Exponential learning investments</li>
+  <li>Flexible talent allocation</li>
+  <li>Engaged experts</li>
+  <li>Autonomous teams</li>
+  <li>Realtime performance feedback</li>
+</ol>
+
+<p><strong>Engaged &amp; Inspired</strong></p>
+
+<ol>
+  <li>Seamless continuous feedback across the eco-system</li>
+  <li>Inspired, co-created experiences</li>
+  <li>Mindset of curiosity</li>
+  <li>High levels of community, trust and respect</li>
+</ol>
+
+<h3 id="leadership-1">Leadership</h3>
+
+<p>There are a number of factors that make good leaders that can be measured and assessed.</p>
+
+<p>Here is a model that consists of three constructs: Confidence, Openness and Impact. There are 5 sub-components for each of the three constructs grouped into development priorities: Accelerator, Growth, Inhibitors.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Leadership Model</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/leadership.png" alt="Leadership Model" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>This model measures factors which underpin behaviours, rather than the behaviours themselves. Facilitates a deeper insight for Leaders individual barriers and motivational drivers to change.</p>
+
+<h3 id="references-1">References</h3>
+
+<p><strong>Cultural Practices</strong></p>
+<ul>
+  <li><a href="https://www.washingtonpost.com/lifestyle/travel/new-artificial-intelligence-promises-to-make-travel-a-little-smarter-does-it/2017/06/22/819c0880-3590-11e7-b373-418f6849a004_story.html?utm_term=.34f4be9cca8a" target="_blank">https://www.washingtonpost.com/lifestyle/travel/new-artificial-intelligence-promises-to-make-travel-a-little-smarter-does-it/2017/06/22/819c0880-3590-11e7-b373-418f6849a004_story.html?utm_term=.34f4be9cca8a</a></li>
+  <li><a href="https://www.ibm.com/blogs/think/2017/03/iot-shared-data/" target="_blank">https://www.ibm.com/blogs/think/2017/03/iot-shared-data/</a></li>
+  <li><a href="http://duettoresearch.com/expedia-report-mobile-travel-booking-will-get-bigger/" target="_blank">http://duettoresearch.com/expedia-report-mobile-travel-booking-will-get-bigger/</a></li>
+  <li><a href="http://www-935.ibm.com/services/multimedia/uk_en_airlines_2020.pdf" target="_blank">http://www-935.ibm.com/services/multimedia/uk_en_airlines_2020.pdf</a></li>
+  <li><a href="https://skift.com/2017/07/27/expedia-to-invest-350-million-in-indonesia-booking-site-traveloka/" target="_blank">https://skift.com/2017/07/27/expedia-to-invest-350-million-in-indonesia-booking-site-traveloka/</a></li>
+  <li><a href="https://www.recode.net/2017/1/31/14462256/amazon-air-cargo-hub-kentucky-airport-prime-air" target="_blank">https://www.recode.net/2017/1/31/14462256/amazon-air-cargo-hub-kentucky-airport-prime-air</a></li>
+</ul>
+
+<hr />
+
+:ET

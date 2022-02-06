@@ -1,0 +1,416 @@
+I"�[<h1 class="no_toc" id="what-capabilities-do-i-need-to-operate-to-fulfil-our-vision">What capabilities do I need to operate to fulfil our vision?</h1>
+
+<p><br /></p>
+
+<h2 style="text-align: center;"><i>We can only see a short distance ahead, but we can see plenty there that needs to be done.</i></h2>
+<h3 style="text-align: right"><i>- Alan Turing</i></h3>
+<h2 style="text-align: center;"><i>No one is less ready for tomorrow than the person who holds the most rigid beliefs about what tomorrow will contain.</i></h2>
+<h3 style="text-align: right"><i>– Wacker, Taylor &amp; Means</i></h3>
+
+<hr />
+
+<details open="">
+  <summary class="text-delta">
+    Table of Contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#what-capabilities-are-required-to-deliver-digital-products--services-and-platform-services" id="markdown-toc-what-capabilities-are-required-to-deliver-digital-products--services-and-platform-services">What capabilities are required to deliver digital products &amp; services and platform services?</a></li>
+  <li><a href="#capability-evolution" id="markdown-toc-capability-evolution">Capability Evolution</a>    <ol>
+      <li><a href="#engagement--demand" id="markdown-toc-engagement--demand">Engagement &amp; Demand</a></li>
+      <li><a href="#product-lifecycle-management" id="markdown-toc-product-lifecycle-management">Product Lifecycle Management</a></li>
+      <li><a href="#fulfillment--provisioning" id="markdown-toc-fulfillment--provisioning">Fulfillment &amp; Provisioning</a></li>
+      <li><a href="#service-operations" id="markdown-toc-service-operations">Service Operations</a></li>
+      <li><a href="#governance--control" id="markdown-toc-governance--control">Governance &amp; Control</a></li>
+    </ol>
+  </li>
+  <li><a href="#how-do-we-transition" id="markdown-toc-how-do-we-transition">How do we transition?</a></li>
+</ol>
+
+</details>
+
+<hr />
+
+<h2 id="what-capabilities-are-required-to-deliver-digital-products--services-and-platform-services">What capabilities are required to deliver digital products &amp; services and platform services?</h2>
+
+<p>A broad range of capabilities are required to ideate, develop, support and control digital products and services throughout their lifecycle.</p>
+<ul>
+  <li><strong>Engagement &amp; Demand</strong>: the capabilities needed to translate business strategy, needs and requests into products and platforms and ensure the right skills are available across the organisation.</li>
+  <li><strong>Product Lifecycle Management</strong>: the capabilities needed to architect, develop and release both application and platform/technology products and services.</li>
+  <li><strong>Fulfillment &amp; Provisioning</strong>: the capabilities required to make products and services easily consumable and rapidly available for use when needed.</li>
+  <li><strong>Service Operations</strong>: the capabilities required to support and operate products and services and ensure they are performant, resilient and meet business and user service levels.</li>
+  <li><strong>Governance &amp; Control</strong>: the capabilities required to support and operate products and services, and ensure they are performant, resilient and meet business and user service levels.</li>
+</ul>
+
+<p>Many of these capabilities cut across the organisation, but have a ‘centre of gravity’ of where the direction and approach for these is set.</p>
+<ul>
+  <li>Many of these capabilities will be required across various areas of the organisation and will play a role in developing and supporting digital products in an effective, flexible and agile way.</li>
+  <li>However, there is typically a ‘centre of gravity’ within the organization that helps set the direction, standards and process for how that should be done across the organisation.</li>
+  <li>Where this ‘centre of gravity’ resides can vary depending on the maturity of the organisation and the level of autonomy in which parts of the organisation are given.</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Capabilities</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/capabilities.png" alt="Capabilities" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="capability-evolution">Capability Evolution</h2>
+
+<p>The key question to ask is how these capabilities are changing for leading digital, platform and cloud enabled organisations? Some capabilities are reinventing themselves and some new capabilities are found to be necessary for optimization that is happening in the operating model of digital enterprises.</p>
+
+<p><br /></p>
+
+<h3 id="engagement--demand">Engagement &amp; Demand</h3>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Aspects</th>
+      <th>Traditional</th>
+      <th>With Digital, Platforms &amp; Multicloud</th>
+      <th>Change Implication</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Demand</td>
+      <td>Demand is planned, typically with tight controls &amp; constraints</td>
+      <td>Variable Demand can be readily supported with less constraint, integrated Bus DevOps</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Digital Technology &amp; Services Strategy</td>
+      <td>Strategy focus is asset &amp; technology-centric. Adoption driven by vendor features on a cyclical basis</td>
+      <td>Continuous strategy focus is Business Value-Centric (Time to Value, User Experience). Greater focus on Technology adoption timing, experimentation pilots. End to end service execution can be displayed against strategic goals via dashboards with analytics.</td>
+      <td>Design Thinking applied to Technology Adoptions. Enterprise Architecture re-focus on Bus Architecture &amp; Business Service Components. <br />Sense &amp; respond to Technology maturity changes</td>
+    </tr>
+    <tr>
+      <td>Demand Management</td>
+      <td>Focus is typically on IT and project driven demand, IT requirements or major business events. CAPEX as a constraint</td>
+      <td>Forecast in a different way, focus shifts to business usage behaviors &amp; needs for services. Use automation to detect patterns and capacity need changes. OPEX consumption estimating</td>
+      <td>Business Partner roles can now focus on strategic demand &amp; value outcomes. Estimate based on Pay-per-usage. Service Catalogs required</td>
+    </tr>
+    <tr>
+      <td>Product Introduction &amp; Roadmap</td>
+      <td>Focus is typically on IT and project driven IT requirements, staged releases</td>
+      <td>Agile based approach, with significant potential for frequent release cycles. But SoR integration mast be managed</td>
+      <td>New Methods to guide business product owners. New ways of working with IT teams, to plan for change.</td>
+    </tr>
+    <tr>
+      <td>Data Science and Analytics</td>
+      <td>Data is managed as a storage cost and constraint. Data not treated as a strategic asset</td>
+      <td>Data as a Service (DaaS) greatly increases the speed and the capacity to add data services with speed, agility, and with cost impacts transparent. Big Data management disciplines for Cognitive AI and Analytics consumption</td>
+      <td>Enterprise Architecture teams need to update approaches, patterns and controls to drive DaaS adoption and establish Data platform services</td>
+    </tr>
+    <tr>
+      <td>Customer Service Assistance</td>
+      <td>Traditional Helpdesk &amp; support staff, IT help pages</td>
+      <td>Helpdesk teams need to be able to manage incidents across cloud providers and IT teams. Greater focus on self-support and use of Virtual Assistance. Business Relationship / Account Management disciplines</td>
+      <td>New procedures, help scripts etc. Virtual Assistance and Robotic Process Automation for high frequency topics</td>
+    </tr>
+    <tr>
+      <td>Adoption, Communities &amp; Communication</td>
+      <td>Created in an ad-hoc way usually within organisational silos</td>
+      <td>Communities and tribes that cut across the organisation focusing on developing core skills, capabilities and collaboration needed to develop digital products and services</td>
+      <td>Develop clear communities with specialty and focus areas, create a culture of cross organisation working, incentivizing giveback to the organisation</td>
+    </tr>
+    <tr>
+      <td>Talent &amp; Knowledge Strategy</td>
+      <td>Traditional model</td>
+      <td>Skills are evolving rapidly, as cloud platforms and solutions evolve. Heavy reliance on external talent bases</td>
+      <td>Centre of Excellence approach and Joint Venture &amp; Collabration models to jump start capability change</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h3 id="product-lifecycle-management">Product Lifecycle Management</h3>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Aspects</th>
+      <th>Traditional</th>
+      <th>With Digital, Platforms &amp; Multicloud</th>
+      <th>Change Implication</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Product Lifecycle Management</td>
+      <td>Release cycles are staged and somewhat constrained for the business</td>
+      <td>Cloud Solutions enable multi-speed IT and increased parallel changes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Architecture and Design</td>
+      <td>Complex multi-layer architecture planning skills required</td>
+      <td>Cloud platforms provide a foundation architecture, focus is on re-using existing legacy, and integrating new solutions. Shift to End User experiences</td>
+      <td>Legacy modernisation skills required. Design Thinking Methods. Ensure regulatory &amp; policy compliance is embedded in the process</td>
+    </tr>
+    <tr>
+      <td>Product Planning</td>
+      <td>Long cycle planning, with features needs to be added in elongated release cycles</td>
+      <td>Clear product ownership driving a priortised backlog that is aligned to changing business needs</td>
+      <td>More flexible budgeting and planning, with shorter cycle roadmaps dor development</td>
+    </tr>
+    <tr>
+      <td>Product Engineering &amp; Development</td>
+      <td>Build and Unit Test monolithic application code</td>
+      <td>DevOps with Microservices and container based approach.</td>
+      <td>New development methods &amp; DevOps discipline</td>
+    </tr>
+    <tr>
+      <td>Configuration &amp; Version Management</td>
+      <td>Typically a pain point across AD &amp; infrastructure, and rarely well automated</td>
+      <td>Stronger focus on Config &amp; Version management across environments, enabled through technology. Multi-concurrent versions can be enabled AB Testing</td>
+      <td>Re-training of staff, tool changes and new working disciplines.</td>
+    </tr>
+    <tr>
+      <td>Product Testing, Packing &amp; Deployment</td>
+      <td>Build and Test in dedicated environments – traditional staged approach</td>
+      <td>DevOps approach:  Test with containers and in Production partitions. A/B Testing of features. Service integration experience testing focus (eg: single-sign on). Operations testing for risk</td>
+      <td>Streamlining the process &amp; automation to avoid quality being a bottleneck. Ensure regulatory &amp; policy compliance is embedded in the process</td>
+    </tr>
+    <tr>
+      <td>Release &amp; Change Management</td>
+      <td>Release cycles are staged and somewhat constrained for the business</td>
+      <td>Business gain potentially radically variable and fast feature deployment cycles. Automation to drive change control compliance - DevOps</td>
+      <td>Release &amp; deployment management process changes. Controls change. Empowerment of ADM teams - DevOps</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h3 id="fulfillment--provisioning">Fulfillment &amp; Provisioning</h3>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Aspects</th>
+      <th>Traditional</th>
+      <th>With Digital, Platforms &amp; Multicloud</th>
+      <th>Change Implication</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Service Access &amp; Orchestration</td>
+      <td>Mixed models</td>
+      <td>Self Servicing, catalog based approach.<br />Single-sign-on globally</td>
+      <td>Need for single sign-on &amp; catalog capability across multi-clouds. Corp Policy to manage authorised cloud services, security access rights and self-service clip levels.</td>
+    </tr>
+    <tr>
+      <td>Platform Environment Provisioning</td>
+      <td>Developers face long wait times to secure access to IT environments</td>
+      <td>Developers can self-serve IT environments, improving quality</td>
+      <td>New policies and processes for developers, and for IT environment managers</td>
+    </tr>
+    <tr>
+      <td>Data Provisioning</td>
+      <td>In-house online install catalog</td>
+      <td>Application Store &amp; Continuous updates<br />Container based approach - Cloud native applications and DB’s are provisioned in to the cloud environment mirroring dev and test environments reducing errors</td>
+      <td>Current personal supporting provisioning services will have greatly reduced demand.</td>
+    </tr>
+    <tr>
+      <td>API &amp; Integration Management</td>
+      <td>Application &amp; Data Integration requires centralised IT teams, intensive effort &amp; bottlenecks in lifecycle</td>
+      <td>Open approach to Application &amp; Data Integration, decoupled, fewer bottlenecks</td>
+      <td>Application Development strategy change. API Lifecycle management processes.</td>
+    </tr>
+    <tr>
+      <td>Capacity Management</td>
+      <td>Capacity pre-planned and constrained by In-house or Supplier Technology Stacks</td>
+      <td>Capacity practices alter - depending on the cloud model (Eg: public vs private, on-premise). Dynamic capacity and self-service needs to be controlled to avoid run-away costs, and minimise wastage</td>
+      <td>New capacity planning and management practices according to IT deployment model. Active lifecycle approach required to reduce ‘Zombie’ accounts and Inactive capacity</td>
+    </tr>
+    <tr>
+      <td>Asset &amp; Information Management</td>
+      <td>Assets and Information controlled centrally or dedicated provider.</td>
+      <td>Asset &amp; Information sit across Cloud Providers - focus of IT is to regulate, audit &amp; optimise.</td>
+      <td>Change to policies and processes. Use of technology (APIs) to automate data collection. Cost management disciplines for data archive and retrievals</td>
+    </tr>
+    <tr>
+      <td>Talent Acquisition, Management and Training</td>
+      <td>Training Courses &amp; Certifications<br />Power User support mechanisms</td>
+      <td>Continuous Just In Time &amp; experiential learning.<br />Agile communities</td>
+      <td>Garage Days &amp; Hackathons.<br />Center of Excellence models<br />Social collaboration enablers</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h3 id="service-operations">Service Operations</h3>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Aspects</th>
+      <th>Traditional</th>
+      <th>With Digital, Platforms &amp; Multicloud</th>
+      <th>Change Implication</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Service Operations</td>
+      <td>Focus on prioritising issues and problems, housekeeping and maintenance</td>
+      <td>Focus on continuous operation, prevention and containment, continuous tech refresh</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Customer Service Level Management</td>
+      <td>Standardised SLA models, controlled in-house</td>
+      <td>SLAs vary across cloud providers. Service integration through Operating Level agreements &amp; automation</td>
+      <td>Policies need to be established, particularly for mission critical business processes, to avoid business performance issues</td>
+    </tr>
+    <tr>
+      <td>Platform Performance Management</td>
+      <td>Performance is internally controlled, but also constrained by pre-build technology stacks</td>
+      <td>Performance shifts to cloud providers and platform integrators, with varying characteristics. Network latency as a typical constraint.</td>
+      <td>IT need to adapt monitoring across multicloud providers with a focus on latency issues and new technology standards (eg: containers)</td>
+    </tr>
+    <tr>
+      <td>Availability &amp; Service Reliability Engineering</td>
+      <td>IT Support staff model – System Administrators and DBAs. IT manages availability to SLAs, with a focus on scripts, maintenance windows and recover</td>
+      <td>Prevention based practices – Site Reliability Engineers. Automation to continuously detect, prevent and recover.</td>
+      <td>Site Reliability Engineering skills and IT Self-Healing script automation.</td>
+    </tr>
+    <tr>
+      <td>Services &amp; API Event Monitoring</td>
+      <td>IT incidents handled through predictable supplier based models</td>
+      <td>Strong focus on prevention, root-case analysis and recovery - DevOps Site reliability Engineering, event management, and skills at Helpdesk level. Increased complexity</td>
+      <td>Processes need to robust for resolving problems &amp; issues in timely manner. Strong root cause skills</td>
+    </tr>
+    <tr>
+      <td>Incident &amp; Problem Management</td>
+      <td>ITIL based support approach</td>
+      <td>Emphasis on early detection and prevention, auto-recovery</td>
+      <td>Embed Site Reliability Engineering. Auto-recovery, Event Analytics. Integrate with legacy operations</td>
+    </tr>
+    <tr>
+      <td>Continuous Improvement</td>
+      <td>Done through lessons learnt at the end of major programmes or initiatives</td>
+      <td>Ingrained as part of the fabric of working, with a culture that seeks out improvement. SRE capability constantly seeking to automate and reduce TOIL</td>
+      <td>Clear metrics to measure improvements, culture and incentives to delver improvements</td>
+    </tr>
+    <tr>
+      <td>Security &amp; Business Continuity</td>
+      <td>Security enablers to prevent vulnerability (eg; virus scan). Manual fall backs for continuity</td>
+      <td>Continuous threat posture, with security operating across boundaries, detecting trends and weakness ahead of major events. Dynamic continuity changes &amp; Robust fallback</td>
+      <td>Automation &amp; AI to pre-empt the risk. <br /> Platform standards to minimize variation vulnerability</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h3 id="governance--control">Governance &amp; Control</h3>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Aspects</th>
+      <th>Traditional</th>
+      <th>With Digital, Platforms &amp; Multicloud</th>
+      <th>Change Implication</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Policies &amp; Standards</td>
+      <td>IT Policies are Asset and technology Centric, for internal IT teams. Policies and standards are relatively static</td>
+      <td>Cloud IT Policies &amp; standards are utilized by the Business, suppliers and external users, enforced by central governing teams. Standards are platform and As-A-Service centric. Standards continuously evolve with new Technology</td>
+      <td>Policies &amp; Standards to enable greater Self-Service, by external parties (Eg: APIs), and for platform standardization. Focus on continuous updates</td>
+    </tr>
+    <tr>
+      <td>Financial Planning &amp; Cloud Economics</td>
+      <td>Fixed period planning cycles (annual, per project), with significant investments for asset refresh</td>
+      <td>The IT service framework now prices IT Services incrementally from the IT vendors to get accurate Operational Expense forecasting. Consumption driven planning with Business Product Owners</td>
+      <td>IT budget planning processes change. Project estimating &amp; planning process changes. Budget allocation &amp; chargeback models change, aligning to Business Product Owners - need to be handled carefully. Handling business case viability challenges</td>
+    </tr>
+    <tr>
+      <td>Partnering &amp; Sourcing</td>
+      <td>IT supplier based models. Value assessed on asset basis. Long procurement cycles</td>
+      <td>“Vendors” are replaced with partners who are tied in seamlessly to the essential delivery of IT services. Value assessed on business outcomes. Rapid proof of value procurement cycles</td>
+      <td>Procurement and sourcing business rules need to be modified to reflect the new opex nature of cloud operations.</td>
+    </tr>
+    <tr>
+      <td>Portfolio Management</td>
+      <td>PO is driving mixed model of CAPEX programmes &amp; project releases. Traditional PPM</td>
+      <td>Project staffs will plan projects incrementally and measure value for incremental progress. ROI metrics will be easier to acquire and justify.</td>
+      <td>Training of PMO staff’s in agile management techniques is required. Governance changes required</td>
+    </tr>
+    <tr>
+      <td>Information &amp; Security control</td>
+      <td>Internal controls are managed against assets and</td>
+      <td>Security polices and controls are proven for each cloud service fielded. For industries with regulatory concerns, security works ahead of ahead of new imitative to show the impact of cloud tools and procedures.</td>
+      <td>Security Organizations need extensive education/exposure to how cloud operations should be tailored for security polices and control,</td>
+    </tr>
+    <tr>
+      <td>Risk, Audit and Compliance</td>
+      <td>Control is managed centrally, and controls are typically transparent</td>
+      <td>Cloud Service Provider contracts assure compliance. Understanding the compliance and regulations for using public cloud providers requires clients working with their providers to validate their deployment patterns.</td>
+      <td>Proactively work with compliance authorities to implement new policies and control’s - but may stretch the talent and experience of incumbent personnel, such as for GDPR issues.</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="how-do-we-transition">How do we transition?</h2>
+
+<p>Assessing the maturity of these capabilities helps determine the areas for focus of operating model change and sets a baseline for measuring improvement. Undertaking a maturity assessment across these capabilities provides a number of benefits to defining the future operating model transformation</p>
+<ul>
+  <li>Bring visibility to current practices adoption</li>
+  <li>Identifying and prioritise gaps in existing capabilities</li>
+  <li>Expose pain points</li>
+  <li>Provide a future view of ambitions and goals with to help focus capability transformation</li>
+  <li>Structure the transformation priorities</li>
+  <li>Target quick wins and early proof points</li>
+</ul>
+
+<p>Additionally, this maturity assessment case act as a ‘yard stick’ to measure progress of the operating model transformation, alongside other KPIs that help support the measurement of each capability.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>TOM Capability Maturity</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/tom-capability-maturity.png" alt="TOM Capability Maturity" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- -   Innovation and Agility: Operating model for responding to changes and need for innovation.
+-   Talent Vitality 
+
+TOM maturity model (capability, skills, structure)
+How to go from current operating model up the maturity model
+-->
+:ET

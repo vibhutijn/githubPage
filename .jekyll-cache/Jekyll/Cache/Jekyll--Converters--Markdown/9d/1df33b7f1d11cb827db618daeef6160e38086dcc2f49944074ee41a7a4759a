@@ -1,0 +1,218 @@
+I"�<h1 class="no_toc" id="digital-integration">Digital Integration</h1>
+
+<hr />
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#overview" id="markdown-toc-overview">Overview</a></li>
+  <li><a href="#key-questions-to-ask" id="markdown-toc-key-questions-to-ask">Key Questions to Ask</a></li>
+  <li><a href="#ibms-approach" id="markdown-toc-ibms-approach">IBM’s Approach</a>    <ol>
+      <li><a href="#main-constituents-of-digital-integration" id="markdown-toc-main-constituents-of-digital-integration">Main Constituents of Digital Integration</a>        <ol>
+          <li><a href="#microservices-fabric" id="markdown-toc-microservices-fabric">Microservices Fabric</a></li>
+        </ol>
+      </li>
+      <li><a href="#devops" id="markdown-toc-devops">DevOps</a></li>
+    </ol>
+  </li>
+  <li><a href="#references" id="markdown-toc-references">References</a></li>
+</ol>
+
+</details>
+
+<hr />
+
+<h2 id="overview">Overview</h2>
+
+<p>This is a transformation journey that requires business transformation, building new architectural layers, adopting new architectural patterns, modernizing &amp; moving existing workloads, exposing existing processes/services as APIs:</p>
+<ul>
+  <li>Engage customers anytime anywhere</li>
+  <li>Paradigm shift from business processes to customer journeys</li>
+  <li>Offer a seamless customer experience beyond the original line of businesses</li>
+  <li>Become agile to respond to market and regulatory changes</li>
+  <li>Keeping innovation at the forefront - not just in business but also in technology (bringing new ideas to market rapidly)</li>
+  <li>Extreme automation to reduce costs</li>
+</ul>
+
+<p>Following image gives an overview of what it takes to become digital:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Digital Mandates</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/digital-mandate.PNG" alt="Digital Mandates" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>From an architecture &amp; technology perspective this translates to:</p>
+<ul>
+  <li>Building new architectural layers and patterns (Microservices, API, EDA, AI/insights)</li>
+  <li>Modernization to remove impediments to rapid business transformation and innovation</li>
+  <li>Adopting new technologies and development practices</li>
+  <li>Reducing technical debt</li>
+  <li>Exposing processes and data to partner and developer ecosystem to accelerate innovation (in a secure way ofcourse)</li>
+  <li>Cloud migration/development</li>
+  <li>Ensuring IT systems are resilient and available</li>
+  <li>Automation of software development processes</li>
+</ul>
+
+<p>What it means is a holistic approach is required for Digital transformation. i.e.:</p>
+<ul>
+  <li>Running siloed initiatives (e.g. enhancing systems of engagement, modernizing applications) is not enough</li>
+  <li>Just developing systems of engagement will not realize the objectives of digital transformation</li>
+  <li>There is a need for well-defined delivery practices, architecture and standards</li>
+  <li>Services &amp; API are the backbone of any digital strategy. 80% of the effort is in Integration to backend systems and Process Digitisation</li>
+</ul>
+
+<hr />
+
+<h2 id="key-questions-to-ask">Key Questions to Ask</h2>
+
+<p>It is essential to understand client’s digital strategy and their progress before proposing changes or revamping their strategy. Key questions to ask here are:</p>
+<ul>
+  <li>What is your modernization strategy?</li>
+  <li>What is your cloud strategy?</li>
+  <li>What is your API strategy?</li>
+  <li>Are you modernizing your applications using Microservices architectural style?</li>
+  <li>How are you handling co-existence?</li>
+  <li>How are you doing DevOps?</li>
+  <li>What are you doing in terms of business process transformation? How are you automating them?</li>
+  <li>What is your integration strategy?</li>
+</ul>
+
+<hr />
+
+<h2 id="ibms-approach">IBM’s Approach</h2>
+
+<p>The core of any digital transformation program is the digital integration layer as depicted in the diagram below</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Digital Integration Layer</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/digital-integration-conceptual.PNG" alt="Digital Integration Layer" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Following are the key capabilities that the digital integration layer should possess:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Digital Integration Layer Capabilities</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/digital-integration-capabilities.PNG" alt="Digital integration layer capabilities" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h3 id="main-constituents-of-digital-integration">Main Constituents of Digital Integration</h3>
+
+<p>There are 4 main constituents of digital integration:</p>
+
+<ol>
+  <li>Business processes/Customer journeys</li>
+  <li>Microservices fabric</li>
+  <li>API</li>
+  <li>Analytics (real-time and batch)</li>
+</ol>
+
+<p><br /></p>
+
+<h4 id="microservices-fabric">Microservices Fabric</h4>
+
+<p>Following is a conceptual view of the Microservices platform:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Microservices Platform - Conceptual View</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/microservices-conceptual.PNG" alt="Microservices platform - conceptual view" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Microservices need to provide multiple ways of invocation. Primarily:</p>
+<ol>
+  <li>REST endpoints - these endpoints are then exposed as API endpoints on the API Gateway (or used to create APIs)</li>
+  <li>EDA or Stream data processing endpoints - microservices can be chained together to develop stream data processing logic</li>
+</ol>
+
+<p>Following picture depicts a typical Microservice development blueprint with REST :</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Microservices Development Blueprint</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/microservice-blueprint.png" alt="Microservice development blueprint" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Following picture depicts a typical way in which microservices are chained together to build stream data processing logic</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Streaming Data Processing</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/microservice-eda.png" alt="Streaming data processing" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h3 id="devops">DevOps</h3>
+
+<p>Following picture depicts a typical CI/CD pipeline</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>DevOps - CI/CD</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/devops-cicd.png" alt="DevOps - CI/CD" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="references">References</h2>
+<ul>
+  <li><a href="https://www.ibm.com/downloads/cas/KWRV8QK6" target="_blank">IBM Institute of Business Value white paper on Digital Transformation</a></li>
+  <li><a href="https://www.ibm.com/in-en/smarter-business?p1=Search&amp;p4=43700055523220409&amp;p5=b&amp;cm_mmc=Search_Google-_-1S_1S-_-AS_IN-_-ibm%20digital%20transformation_b&amp;cm_mmca7=71700000068212243&amp;cm_mmca8=kwd-296637289140&amp;cm_mmca9=CjwKCAiAkan9BRAqEiwAP9X6Ub4zVyb4_WPv-DpOD2MUCHC4zbAuxZ-z4v3v0bWNmgUUqveMei0rzBoCYrsQAvD_BwE&amp;cm_mmca10=446225946203&amp;cm_mmca11=b&amp;gclid=CjwKCAiAkan9BRAqEiwAP9X6Ub4zVyb4_WPv-DpOD2MUCHC4zbAuxZ-z4v3v0bWNmgUUqveMei0rzBoCYrsQAvD_BwE&amp;gclsrc=aw.ds" target="_blank">IBM’s Smarter Business Microsite</a></li>
+</ul>
+:ET

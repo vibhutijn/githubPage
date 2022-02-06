@@ -1,0 +1,105 @@
+I"v<h1 class="no_toc" id="garage">Garage</h1>
+
+<hr />
+
+<details open="">
+  <summary class="text-delta">
+    Table of Contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#objective" id="markdown-toc-objective">Objective</a></li>
+  <li><a href="#ibms-approach" id="markdown-toc-ibms-approach">IBM’s Approach</a></li>
+</ol>
+
+</details>
+
+<hr />
+
+<h2 id="objective">Objective</h2>
+
+<p>This section is used to highlight a Collaborative Delivery Model that is both organic &amp; immersive and provides value for our clients.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>Garage</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/garage-model.png" alt="Garage" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="ibms-approach">IBM’s Approach</h2>
+
+<p>We offer a unique way of engaging through co-creation, joint squads, and the <a href="https://www.ibm.com/garage/method" target="_blank">IBM Garage Method for Cloud</a> to deliver organizational change and a new culture of speed and velocity that’s sustainable for the digital future.</p>
+
+<ul>
+  <li>We think the best way to deliver co-creation to the clients is through joint squads</li>
+  <li>There should be SMEs from both IBM and from the client to ensure that skills are being transferred throughout the process</li>
+  <li>They’re working together in a very agile, very iterative way to prioritize what’s getting developed</li>
+</ul>
+
+<p>There are three distinct ways of delivery build applications on cloud:</p>
+<ul>
+  <li>Envision: Quick engagement similar to a PoC that does high level architecture and defines the MVP</li>
+  <li>MVP: Actually building an MVP deployed to production – also contains elements of design and analyse</li>
+  <li>Scale:  Full engagement with multiple teams</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>IBM Approach</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../resources/garage.png" alt="Garage" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Envision</th>
+      <th>MVP</th>
+      <th>Scale</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Outcomes</strong></td>
+      <td>- Architecture and Blueprint  <br /> - MVP Definition  <br /> - Journey Map  <br /> - User Story Backlog  <br /> - Journey Maps</td>
+      <td>- Blueprint &amp; E2E Architecture  <br /> - MVP Deployed to Production  <br /> - 12-30 Microservices  <br /> - 135-270 story points with varying complexity</td>
+      <td>- 2-5 Microservices per Month  <br /> - Deployment across geos, LOBs  <br /> - Co-Creation and Skills Transfer  <br /> - Organizational Change  <br /> - New technology adoption and skillset(AI, Analytics, Automation, Blockchain)</td>
+    </tr>
+    <tr>
+      <td><strong>Key Activities</strong></td>
+      <td>- IBM Garage Design Thinking Workshops  <br /> - Cloud Advisory Assessment  <br /> - Experience Led Development</td>
+      <td>- Set up Dev &amp; Test Environments  <br /> - Joint Development Squads  <br /> - Coexistence, E2E Testing and Integration</td>
+      <td>- Organizational Change Management  <br /> - Employee Engagement  <br /> - Digital Change  <br /> - Full Dev &amp; Test</td>
+    </tr>
+    <tr>
+      <td><strong>Duration</strong></td>
+      <td>3 Month Week</td>
+      <td>3-6 Months</td>
+      <td>6+ Months</td>
+    </tr>
+    <tr>
+      <td><strong>Deployment Model</strong></td>
+      <td>Multi-cloud, On-prem</td>
+      <td>Multi-cloud, On-prem</td>
+      <td>Multi-cloud, On-prem</td>
+    </tr>
+  </tbody>
+</table>
+:ET
