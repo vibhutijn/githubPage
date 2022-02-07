@@ -1,0 +1,45 @@
+I"{<h1 class="no_toc" id="integration-patterns">Integration Patterns</h1>
+
+<p><br /></p>
+
+<h2 id="integration-approaches">Integration Approaches</h2>
+
+<ul>
+  <li><a href="/githubPage//integration-patterns-apification">APIfication</a></li>
+  <li><a href="/githubPage//integration-patterns-event-driven-integration">Event Driven Integration</a></li>
+</ul>
+
+<h2 id="coexistence-patterns">Coexistence Patterns</h2>
+
+<ol>
+  <li>
+    <p><strong><a href="/githubPage//coexistence-scenarios">Coexistence scenarios</a></strong></p>
+  </li>
+  <li>
+    <p><strong>Data Management Patterns</strong></p>
+
+    <ul>
+      <li><a href="/githubPage//data-patterns-cdc">Change Data Capture</a></li>
+      <li><a href="/githubPage//data-management/trans-filtering-engine">Transformation and Filtering Engine</a></li>
+      <li><a href="/githubPage//integration-patterns-data-adapters">Data Adapter</a></li>
+      <li><a href="/githubPage//data-patterns-data-virtualization">Data Virtualization</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Transaction Management Patterns</strong></p>
+
+    <ul>
+      <li><a href="/githubPage//txn-patterns-saga">SAGA</a></li>
+      <li><a href="/githubPage//txn-patterns-tcc">TCC</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>. <strong>Request Management Patterns</strong></p>
+
+    <ul>
+      <li><a href="/githubPage//txreqmgmt-patterns-strangler">Strangler</a></li>
+    </ul>
+  </li>
+</ol>
+
+:ET
