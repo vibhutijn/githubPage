@@ -24,9 +24,7 @@ Visual software deployment platform for creating business applications with a cl
 -    Frontend, backend, data, process flows, and architecture all embedded into the platform
 -   Provides holistic view of the entire applications
 
-| **Low-Code No-Code** |
-| :-: |
-| ![Low-Code No-Code](../resources/lowcode.png) |
+
 
 - **Model components** should be immutable,any new changes should be new components, extensive testing is required, need support for flexible auth requirements.
 - **Avoid vendor lock-in** by using open source-based components, no frequent updates to components, cultural changes and training needed.
@@ -47,30 +45,20 @@ Build an X-Press connect API marketplace for business and third party Partners w
 
 ### IBM Solution
 
-| **IBM Solution** |
-| :-: |
-| ![DSB](../resources/lowcode-ibm.png) |
 
 **Digital Scenario Builder (DSB)** helps choreograph microservices into a digital scenario flow 
 -    Automated Code generation leads to 25 % better code quality, reducing cost of maintenance
 -    25% cheaper with enhanced productivity using core language resources and scaling abilities
 
-| **Digital Scenario Builder** |
-| :-: |
-| ![DSB](../resources/lowcode-dmb.png) |
+
 
 **Digital Microservices Builder** 
 -   Generate microservices code using API definitions that enables to rapidly deploy new functionality  & accelerate go-to-market of new products & services
 -   Accelerated to get Microservices program to be 20% faster
 
-| **Digital Microservices Builder** |
-| :-: |
-| ![DSB](../resources/lowcode-dsb.png) |
+
 
 **DevOps Commander and Deployment Automation Tool**
 - Automate design, build, deployment  and operation based on best practices, Microservice API enabled tool, UCDz, Jenkins, Jira, REXX Scripts, Shell Scripts
 
-| **DevOps Commander and Deployment Automation Tool** |
-| :-: |
-| ![DSB](../resources/lowcode-dc.png) |
 
